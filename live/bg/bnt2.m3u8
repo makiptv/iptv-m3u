@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",LANGUAGE="slv",NAME="HD_audio_4Mb",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=205451&extension=ts&play_token=iSzOzkZEH6&sn2="
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio1",FRAME-RATE=25
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=205451&extension=ts&play_token=iSzOzkZEH6&sn2=
+#EXT-X-ENDLIST
