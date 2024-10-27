@@ -1,235 +1,352 @@
 #EXTINF:-1,<<<MOJA TV BH TELEKOM>>>
 #EXTINF:-1,BHT 1
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/bht1.m3u8
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 #EXTINF:-1,FEDERALNA TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/ftv.m3u8
 #EXTINF:-1,HAYAT 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/hayat.m3u8
 #EXTINF:-1,HAYAT PLUS
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/hayatplus.m3u8
 #EXTINF:-1,PINK BIH
-http://webtvstream.bhtelecom.ba/pink_bh.m3u8
+http://webtvstream.bhtelecom.baSafari/537.36/pink_bh.m3u8
 #EXTINF:-1,RTV TK 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtv_tk.m3u8
 #EXTINF:-1,TV SARAJEVO
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/tvsa.m3u8
 #EXTINF:-1,TV 1 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/tv1.m3u8
 #EXTINF:-1,OBN
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/obn.m3u8
 #EXTINF:-1,RTL TELEVIZIJA
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtl_hr.m3u8
 #EXTINF:-1,RTL 2
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtl2_hr.m3u8
 #EXTINF:-1,RTL LIVING
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtl_living.m3u8
 #EXTINF:-1,M1 FILM
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/m1_film.m3u8
 #EXTINF:-1,arena 1
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/arena1.m3u8
 #EXTINF:-1,ARENA HR 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/arenahr.m3u8
 #EXTINF:-1,arena 2
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/arena2.m3u8
 #EXTINF:-1,arena 3
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/arena3.m3u8
 #EXTINF:-1,arena 4
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/arena4.m3u8
 #EXTINF:-1,PREMIER LIGA BIH
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 URL:http://webtvstream.bhtelecom.ba/bhtpremier.m3u8
 #EXTINF:-1,CITY TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/city_tv.m3u8
 #EXTINF:-1,AL JAZIRA BALKAN
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/live/ajb.m3u8
 #EXTINF:-1,FACE TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/facetv.m3u8
 #EXTINF:-1,RTRS
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtrs.m3u8
 #EXTINF:-1,HAYATovci
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/hayatovci.m3u8
 #EXTINF:-1,RTL KOCKICA
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtl_kockica.m3u8
 #EXTINF:-1,MINIMAX
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/minimax.m3u8
 #EXTINF:-1,NICKELODEON
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/nickelodeon.m3u8
 #EXTINF:-1,NICK JR
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/nickjr.m3u8
 #EXTINF:-1,HAYAT MUSIC
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/hayat_music.m3u8
 #EXTINF:-1,HAYAT FOLK
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/hayat_folk.m3u8
 #EXTINF:-1,DM SAT
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/dm_sat.m3u8
 #EXTINF:-1,ELTA TV HD
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/elta.m3u8
 #EXTINF:-1,IZVORNA TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/izvorna_tv.m3u8
 #EXTINF:-1,JASMIN TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/tv_jasmin.m3u8
 #EXTINF:-1,OTV VALENTINO
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/otv_valentino.m3u8
 #EXTINF:-1,VALENTINO MUSIC
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/valentino_music.m3u8
 #EXTINF:-1,VALENTINO ETNO
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/valentino_etno.m3u8
 #EXTINF:-1,BN MUSIC
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/bn_music.m3u8
 #EXTINF:-1,TV ZENICA
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtv_zenica.m3u8
 #EXTINF:-1,RTV  7
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/tv7.m3u8
 #EXTINF:-1,ATV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/atv.m3u8
 #EXTINF:-1,TV MOSTAR
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtv_mostar.m3u8
 #EXTINF:-1,RTV USK
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtv_usk.m3u8
 #EXTINF:-1,NTV KAKANJ
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/ntvic_kakanj.m3u8
 #EXTINF:-1,rtv slon
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtv_slon.m3u8
 #EXTINF:-1,HIT BRCKO
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/hit_brcko.m3u8
 #EXTINF:-1,NTV 101
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/ntv101.m3u8
 #EXTINF:-1,TV GORAZDE
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/gorazde.m3u8
 #EXTINF:-1,MTV IGMAN
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/mtv_igman.m3u8
 #EXTINF:-1,TELEVIZIJA  5
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/televizija5.m3u8
 #EXTINF:-1,VOGOSCA TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/vogosca.m3u8
-#EXTINF:-1,BEHAR TV
+#EXTINF:-1,BEHAR 
+TVEXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
+
 http://webtvstream.bhtelecom.ba/behar.m3u8
 #EXTINF:-1,JATA TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/jata.m3u8
 #EXTINF:-1,VISOKO
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/live/visoko.m3u8
 #EXTINF:-1,SMART TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/smart_tv.m3u8
 #EXTINF:-1,RTV MAGLAJ
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtv_maglaj.m3u8
 #EXTINF:-1,KISS TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 URL:http://webtvstream.bhtelecom.ba/live/kiss.m3u8
 #EXTINF:-1,KANAL 6
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/kanal6.m3u8
 #EXTINF:-1,CAZIN TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtv_cazin.m3u8
 #EXTINF:-1,K3
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/live/k3.m3u8
 #EXTINF:-1,RTV ZIVINICE
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtv_zivinice.m3u8
 #EXTINF:-1,RTV LUKAVAC
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtv_lukavac.m3u8
 #EXTINF:-1,OSM TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/osm.m3u8
 #EXTINF:-1,ALFA TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/live/alfa_tv.m3u8
 #EXTINF:-1,BDC
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/bdc_tv.m3u8
 #EXTINF:-1,RTV JABLANICA
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtv_jablanica.m3u8
 #EXTINF:-1,NOVI PAZAR
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pazar.m3u8
 #EXTINF:-1,SANDZAK TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/sandzak_tv.m3u8
 #EXTINF:-1,KCN1
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/kcn1.m3u8
 #EXTINF:-1,KCN2
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/kcn2.m3u8
 #EXTINF:-1,KCN3
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/kcn3.m3u8
 #EXTINF:-1,HEMA
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/hema.m3u8
 #EXTINF:-1,RTV BN
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtv_bn.m3u8
 #EXTINF:-1,PRVA HERCEGOVACKA
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/prva_hercegovacka.m3u8
 #EXTINF:-1,GLAS DRINE
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/glas_drine_tv.m3u8
 #EXTINF:-1,RTV SANA
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/rtv_sana.m3u8
 #EXTINF:-1,ISLAM CHANEL
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/islam_channel.m3u8
 #EXTINF:-1,SAUDI QURAN
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/saudi_quran.m3u8
 #EXTINF:-1,FRANCE24 ENGLISH
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/france24_eng.m3u8
 #EXTINF:-1,FRANCE FRANCAIS
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/france24_fra.m3u8
-#EXTINF:-1,FRANCE  ARABIC
+#EXTINF:-1,FRANCE 
+ARABICEXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/france24_arab.m3u8
 #EXTINF:-1,CCTV4
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/live/cctv.m3u8
 #EXTINF:-1,CC TV NEWS
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/cctv_news.m3u8
 #EXTINF:-1,CCTV DOCUMENTARY
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/cctv_documentary.m3u8
 #EXTINF:-1,TV5 MONDE
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/tv5_monde.m3u8
 #EXTINF:-1,PINK
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/live/pink.m3u8
 #EXTINF:-1,PINK 2
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink2.m3u8
 #EXTINF:-1,PINK 3 info
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink3_info.m3u8
 #EXTINF:-1,PINK M
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_m.m3u8
 #EXTINF:-1,PINK EXTRA
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_extra.m3u8
 #EXTINF:-1,PINK LIFE STYLE
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_style.m3u8
 #EXTINF:-1, PINK ZABAVA
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_zabava.m3u8
 #EXTINF:-1,PINK HITS
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_hits.m3u8
 #EXTINF:-1,PINK HITS 2
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_hits2.m3u8
 #EXTINF:-1,PINK MUSIC 2
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_music2.m3u8
 #EXTINF:-1,BRAVO MUSIC
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/bravo_music.m3u8
 #EXTINF:-1,PINK FOLK 1
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://195.222.57.183:1935/live/pink_folk1.m3u8
 #EXTINF:-1,PINK FOLK 2
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_folk2.m3u8
 #EXTINF:-1,PINK KONCERT
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_koncert.m3u8
 #EXTINF:-1,PINK N ROLL
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_nroll.m3u8
 #EXTINF:-1,PINK KIDS
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_kids.m3u8
 #EXTINF:-1,PINK FAMILY
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_family.m3u8
 #EXTINF:-1,PINK ROMANCE
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_romance.m3u8
 #EXTINF:-1,PINK SOAP
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_soap.m3u8
 #EXTINF:-1,PINK FILM
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_film.m3u8
 #EXTINF:-1,PINK ACTION
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_action.m3u8
 #EXTINF:-1,PINK THRILLER
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_thriller.m3u8
 #EXTINF:-1,PINK PREMIUM
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_premium.m3u8
 #EXTINF:-1,PINK COMEDY
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_comedy.m3u8
 #EXTINF:-1,PINK CRIME AND MYSTERY
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_crime_mystery.m3u8
 #EXTINF:-1,PINK SCIFI AND FANTASY
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_scifi_fantasy.m3u8
-#EXTINF:-1,PINK WEATERN
+#EXTINF:-1,PINK WESTERN
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_western.m3u8
 #EXTINF:-1,PINK CLASSIC
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_clasic.m3u8
 #EXTINF:-1,PINK WORLD
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_world.m3u8
 #EXTINF:-1,PINK PEDIA
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://webtvstream.bhtelecom.ba/pink_pedia.m3u8
 #EXTINF:-1,LIVE BJELASNICA
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://195.222.59.140:1935/live/bjelasnica.stream/playlist.m3u8
 #EXTINF:-1,LIVE BJELASNICA SKI STAZA
 http://195.222.59.140:1935/live/bjelasnica2.stream/playlist.m3u8
