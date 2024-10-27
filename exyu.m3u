@@ -1,260 +1,259 @@
-#EXTM3U
-#EXTINF:0,Channel name:<<<MOJA TV BH TELEKOM>>>
-Channel name:BHT 1
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/bht1.m3u8
-Channel name:FEDERALNA TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/ftv.m3u8
-Channel name:HAYAT 
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/hayat.m3u8
-Channel name:HAYAT PLUS
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/hayatplus.m3u8
-Channel name:PINK BIH
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_bh.m3u8
-Channel name:RTV TK 
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtv_tk.m3u8
-Channel name:TV SARAJEVO
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/tvsa.m3u8
-Channel name:TV 1 
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/tv1.m3u8
-Channel name:OBN
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/obn.m3u8
-Channel name:RTL TELEVIZIJA
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtl_hr.m3u8
-Channel name:RTL 2
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtl2_hr.m3u8
-Channel name:RTL LIVING
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtl_living.m3u8
-Channel name:M1 FILM
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/m1_film.m3u8
-Channel name:arena 1
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/arena1.m3u8
-Channel name:ARENA HR 
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/arenahr.m3u8
-Channel name:arena 2
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/arena2.m3u8
-Channel name:arena 3
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/arena3.m3u8
-Channel name:arena 4
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/arena4.m3u8
-Channel name:PREMIER LIGA BIH
-#EXTINF:0,URL:http://webtvstream.bhtelecom.ba/bhtpremier.m3u8
-Channel name:CITY TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/city_tv.m3u8
-Channel name:AL JAZIRA BALKAN
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/live/ajb.m3u8
-Channel name:FACE TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/facetv.m3u8
-Channel name:RTRS
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtrs.m3u8
-Channel name:HAYATovci
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/hayatovci.m3u8
-Channel name:RTL KOCKICA
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtl_kockica.m3u8
-Channel name:MINIMAX
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/minimax.m3u8
-Channel name:NICKELODEON
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/nickelodeon.m3u8
-Channel name:NICK JR
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/nickjr.m3u8
-Channel name:HAYAT MUSIC
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/hayat_music.m3u8
-Channel name:HAYAT FOLK
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/hayat_folk.m3u8
-Channel name:DM SAT
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/dm_sat.m3u8
-Channel name:ELTA TV HD
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/elta.m3u8
-Channel name:IZVORNA TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/izvorna_tv.m3u8
-Channel name:JASMIN TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/tv_jasmin.m3u8
-Channel name:OTV VALENTINO
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/otv_valentino.m3u8
-Channel name:VALENTINO MUSIC
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/valentino_music.m3u8
-Channel name:VALENTINO ETNO
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/valentino_etno.m3u8
-Channel name:BN MUSIC
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/bn_music.m3u8
-Channel name:TV ZENICA
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtv_zenica.m3u8
-Channel name:RTV  7
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/tv7.m3u8
-Channel name:ATV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/atv.m3u8
-Channel name:TV MOSTAR
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtv_mostar.m3u8
-Channel name:RTV USK
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtv_usk.m3u8
-Channel name:NTV KAKANJ
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/ntvic_kakanj.m3u8
-Channel name:rtv slon
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtv_slon.m3u8
-Channel name:HIT BRCKO
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/hit_brcko.m3u8
-Channel name:NTV 101
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/ntv101.m3u8
-Channel name:TV GORAZDE
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/gorazde.m3u8
-Channel name:MTV IGMAN
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/mtv_igman.m3u8
-Channel name:TELEVIZIJA  5
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/televizija5.m3u8
-Channel name:VOGOSCA TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/vogosca.m3u8
-Channel name:BEHAR TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/behar.m3u8
-Channel name:JATA TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/jata.m3u8
-Channel name:VISOKO
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/live/visoko.m3u8
-Channel name:SMART TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/smart_tv.m3u8
-Channel name:RTV MAGLAJ
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtv_maglaj.m3u8
-Channel name:KISS TV
-#EXTINF:0,URL:http://webtvstream.bhtelecom.ba/live/kiss.m3u8
-Channel name:KANAL 6
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/kanal6.m3u8
-Channel name:CAZIN TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtv_cazin.m3u8
-Channel name:K3
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/live/k3.m3u8
-Channel name:RTV ZIVINICE
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtv_zivinice.m3u8
-Channel name:RTV LUKAVAC
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtv_lukavac.m3u8
-Channel name:OSM TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/osm.m3u8
-Channel name:ALFA TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/live/alfa_tv.m3u8
-Channel name:BDC
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/bdc_tv.m3u8
-Channel name:RTV JABLANICA
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtv_jablanica.m3u8
-Channel name:NOVI PAZAR
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pazar.m3u8
-Channel name:SANDZAK TV
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/sandzak_tv.m3u8
-Channel name:KCN1
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/kcn1.m3u8
-Channel name:KCN2
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/kcn2.m3u8
-Channel name:KCN3
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/kcn3.m3u8
-Channel name:HEMA
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/hema.m3u8
-Channel name:RTV BN
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtv_bn.m3u8
-Channel name:PRVA HERCEGOVACKA
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/prva_hercegovacka.m3u8
-Channel name:GLAS DRINE
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/glas_drine_tv.m3u8
-Channel name:RTV SANA
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/rtv_sana.m3u8
-Channel name:ISLAM CHANEL
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/islam_channel.m3u8
-Channel name:SAUDI QURAN
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/saudi_quran.m3u8
-Channel name:FRANCE24 ENGLISH
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/france24_eng.m3u8
-Channel name:FRANCE FRANCAIS
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/france24_fra.m3u8
-Channel name:FRANCE  ARABIC
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/france24_arab.m3u8
-Channel name:CCTV4
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/live/cctv.m3u8
-Channel name:CC TV NEWS
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/cctv_news.m3u8
-Channel name:CCTV DOCUMENTARY
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/cctv_documentary.m3u8
-Channel name:TV5 MONDE
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/tv5_monde.m3u8
-Channel name:PINK
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/live/pink.m3u8
-Channel name:PINK 2
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink2.m3u8
-Channel name:PINK 3 info
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink3_info.m3u8
-Channel name:PINK M
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_m.m3u8
-Channel name:PINK EXTRA
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_extra.m3u8
-Channel name:PINK LIFE STYLE
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_style.m3u8
-Channel name: PINK ZABAVA
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_zabava.m3u8
-Channel name:PINK HITS
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_hits.m3u8
-Channel name:PINK HITS 2
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_hits2.m3u8
-Channel name:PINK MUSIC 2
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_music2.m3u8
-Channel name:BRAVO MUSIC
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/bravo_music.m3u8
-Channel name:PINK FOLK 1
-#EXTINF:0,URL1:http://195.222.57.183:1935/live/pink_folk1.m3u8
-Channel name:PINK FOLK 2
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_folk2.m3u8
-Channel name:PINK KONCERT
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_koncert.m3u8
-Channel name:PINK N ROLL
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_nroll.m3u8
-Channel name:PINK KIDS
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_kids.m3u8
-Channel name:PINK FAMILY
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_family.m3u8
-Channel name:PINK ROMANCE
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_romance.m3u8
-Channel name:PINK SOAP
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_soap.m3u8
-Channel name:PINK FILM
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_film.m3u8
-Channel name:PINK ACTION
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_action.m3u8
-Channel name:PINK THRILLER
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_thriller.m3u8
-Channel name:PINK PREMIUM
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_premium.m3u8
-Channel name:PINK COMEDY
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_comedy.m3u8
-Channel name:PINK CRIME AND MYSTERY
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_crime_mystery.m3u8
-Channel name:PINK SCIFI AND FANTASY
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_scifi_fantasy.m3u8
-Channel name:PINK WEATERN
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_western.m3u8
-Channel name:PINK CLASSIC
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_clasic.m3u8
-Channel name:PINK WORLD
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_world.m3u8
-Channel name:PINK PEDIA
-#EXTINF:0,URL1:http://webtvstream.bhtelecom.ba/pink_pedia.m3u8
-Channel name:LIVE BJELASNICA
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/bjelasnica.stream/playlist.m3u8
-Channel name:LIVE BJELASNICA SKI STAZA
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/bjelasnica2.stream/playlist.m3u8
-Channel name:LIVE VLASIC
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/vlasic.stream/playlist.m3u8
-Channel name:LIVE NEUM
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/neum.stream/playlist.m3u8
-Channel name:LIVE IGMAN
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/camigman.stream/playlist.m3u8
-Channel name:DOLAC MALTA
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/malta.stream/playlist.m3u8
-Channel name:LIVA JAHORINA
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/jahorina.stream/playlist.m3u8
-Channel name:LIVE  MOSTAR
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/mostar_cam.stream/playlist.m3u8
-Channel name:LIVE SARAJEVO
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/sarajevo_cam.stream/playlist.m3u8
-Channel name:LIVE TRAVNIK
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/travnik_cam.stream/playlist.m3u8
-Channel name:LIVE MOJMILO
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/mojmilo_cam.stream/playlist.m3u8
-Channel name:LIVE VISOKO
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/visoko_cam.stream/playlist.m3u8
-Channel name:LIVE STOLAC
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/stolac_cam.stream/playlist.m3u8
+#EXTINF:-1,<<<MOJA TV BH TELEKOM>>>
+#EXTINF:-1,BHT 1
+http://webtvstream.bhtelecom.ba/bht1.m3u8
+#EXTINF:-1,FEDERALNA TV
+http://webtvstream.bhtelecom.ba/ftv.m3u8
+#EXTINF:-1,HAYAT 
+http://webtvstream.bhtelecom.ba/hayat.m3u8
+#EXTINF:-1,HAYAT PLUS
+http://webtvstream.bhtelecom.ba/hayatplus.m3u8
+#EXTINF:-1,PINK BIH
+http://webtvstream.bhtelecom.ba/pink_bh.m3u8
+#EXTINF:-1,RTV TK 
+http://webtvstream.bhtelecom.ba/rtv_tk.m3u8
+#EXTINF:-1,TV SARAJEVO
+http://webtvstream.bhtelecom.ba/tvsa.m3u8
+#EXTINF:-1,TV 1 
+http://webtvstream.bhtelecom.ba/tv1.m3u8
+#EXTINF:-1,OBN
+http://webtvstream.bhtelecom.ba/obn.m3u8
+#EXTINF:-1,RTL TELEVIZIJA
+http://webtvstream.bhtelecom.ba/rtl_hr.m3u8
+#EXTINF:-1,RTL 2
+http://webtvstream.bhtelecom.ba/rtl2_hr.m3u8
+#EXTINF:-1,RTL LIVING
+http://webtvstream.bhtelecom.ba/rtl_living.m3u8
+#EXTINF:-1,M1 FILM
+http://webtvstream.bhtelecom.ba/m1_film.m3u8
+#EXTINF:-1,arena 1
+http://webtvstream.bhtelecom.ba/arena1.m3u8
+#EXTINF:-1,ARENA HR 
+http://webtvstream.bhtelecom.ba/arenahr.m3u8
+#EXTINF:-1,arena 2
+http://webtvstream.bhtelecom.ba/arena2.m3u8
+#EXTINF:-1,arena 3
+http://webtvstream.bhtelecom.ba/arena3.m3u8
+#EXTINF:-1,arena 4
+http://webtvstream.bhtelecom.ba/arena4.m3u8
+#EXTINF:-1,PREMIER LIGA BIH
+URL:http://webtvstream.bhtelecom.ba/bhtpremier.m3u8
+#EXTINF:-1,CITY TV
+http://webtvstream.bhtelecom.ba/city_tv.m3u8
+#EXTINF:-1,AL JAZIRA BALKAN
+http://webtvstream.bhtelecom.ba/live/ajb.m3u8
+#EXTINF:-1,FACE TV
+http://webtvstream.bhtelecom.ba/facetv.m3u8
+#EXTINF:-1,RTRS
+http://webtvstream.bhtelecom.ba/rtrs.m3u8
+#EXTINF:-1,HAYATovci
+http://webtvstream.bhtelecom.ba/hayatovci.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://webtvstream.bhtelecom.ba/rtl_kockica.m3u8
+#EXTINF:-1,MINIMAX
+http://webtvstream.bhtelecom.ba/minimax.m3u8
+#EXTINF:-1,NICKELODEON
+http://webtvstream.bhtelecom.ba/nickelodeon.m3u8
+#EXTINF:-1,NICK JR
+http://webtvstream.bhtelecom.ba/nickjr.m3u8
+#EXTINF:-1,HAYAT MUSIC
+http://webtvstream.bhtelecom.ba/hayat_music.m3u8
+#EXTINF:-1,HAYAT FOLK
+http://webtvstream.bhtelecom.ba/hayat_folk.m3u8
+#EXTINF:-1,DM SAT
+http://webtvstream.bhtelecom.ba/dm_sat.m3u8
+#EXTINF:-1,ELTA TV HD
+http://webtvstream.bhtelecom.ba/elta.m3u8
+#EXTINF:-1,IZVORNA TV
+http://webtvstream.bhtelecom.ba/izvorna_tv.m3u8
+#EXTINF:-1,JASMIN TV
+http://webtvstream.bhtelecom.ba/tv_jasmin.m3u8
+#EXTINF:-1,OTV VALENTINO
+http://webtvstream.bhtelecom.ba/otv_valentino.m3u8
+#EXTINF:-1,VALENTINO MUSIC
+http://webtvstream.bhtelecom.ba/valentino_music.m3u8
+#EXTINF:-1,VALENTINO ETNO
+http://webtvstream.bhtelecom.ba/valentino_etno.m3u8
+#EXTINF:-1,BN MUSIC
+http://webtvstream.bhtelecom.ba/bn_music.m3u8
+#EXTINF:-1,TV ZENICA
+http://webtvstream.bhtelecom.ba/rtv_zenica.m3u8
+#EXTINF:-1,RTV  7
+http://webtvstream.bhtelecom.ba/tv7.m3u8
+#EXTINF:-1,ATV
+http://webtvstream.bhtelecom.ba/atv.m3u8
+#EXTINF:-1,TV MOSTAR
+http://webtvstream.bhtelecom.ba/rtv_mostar.m3u8
+#EXTINF:-1,RTV USK
+http://webtvstream.bhtelecom.ba/rtv_usk.m3u8
+#EXTINF:-1,NTV KAKANJ
+http://webtvstream.bhtelecom.ba/ntvic_kakanj.m3u8
+#EXTINF:-1,rtv slon
+http://webtvstream.bhtelecom.ba/rtv_slon.m3u8
+#EXTINF:-1,HIT BRCKO
+http://webtvstream.bhtelecom.ba/hit_brcko.m3u8
+#EXTINF:-1,NTV 101
+http://webtvstream.bhtelecom.ba/ntv101.m3u8
+#EXTINF:-1,TV GORAZDE
+http://webtvstream.bhtelecom.ba/gorazde.m3u8
+#EXTINF:-1,MTV IGMAN
+http://webtvstream.bhtelecom.ba/mtv_igman.m3u8
+#EXTINF:-1,TELEVIZIJA  5
+http://webtvstream.bhtelecom.ba/televizija5.m3u8
+#EXTINF:-1,VOGOSCA TV
+http://webtvstream.bhtelecom.ba/vogosca.m3u8
+#EXTINF:-1,BEHAR TV
+http://webtvstream.bhtelecom.ba/behar.m3u8
+#EXTINF:-1,JATA TV
+http://webtvstream.bhtelecom.ba/jata.m3u8
+#EXTINF:-1,VISOKO
+http://webtvstream.bhtelecom.ba/live/visoko.m3u8
+#EXTINF:-1,SMART TV
+http://webtvstream.bhtelecom.ba/smart_tv.m3u8
+#EXTINF:-1,RTV MAGLAJ
+http://webtvstream.bhtelecom.ba/rtv_maglaj.m3u8
+#EXTINF:-1,KISS TV
+URL:http://webtvstream.bhtelecom.ba/live/kiss.m3u8
+#EXTINF:-1,KANAL 6
+http://webtvstream.bhtelecom.ba/kanal6.m3u8
+#EXTINF:-1,CAZIN TV
+http://webtvstream.bhtelecom.ba/rtv_cazin.m3u8
+#EXTINF:-1,K3
+http://webtvstream.bhtelecom.ba/live/k3.m3u8
+#EXTINF:-1,RTV ZIVINICE
+http://webtvstream.bhtelecom.ba/rtv_zivinice.m3u8
+#EXTINF:-1,RTV LUKAVAC
+http://webtvstream.bhtelecom.ba/rtv_lukavac.m3u8
+#EXTINF:-1,OSM TV
+http://webtvstream.bhtelecom.ba/osm.m3u8
+#EXTINF:-1,ALFA TV
+http://webtvstream.bhtelecom.ba/live/alfa_tv.m3u8
+#EXTINF:-1,BDC
+http://webtvstream.bhtelecom.ba/bdc_tv.m3u8
+#EXTINF:-1,RTV JABLANICA
+http://webtvstream.bhtelecom.ba/rtv_jablanica.m3u8
+#EXTINF:-1,NOVI PAZAR
+http://webtvstream.bhtelecom.ba/pazar.m3u8
+#EXTINF:-1,SANDZAK TV
+http://webtvstream.bhtelecom.ba/sandzak_tv.m3u8
+#EXTINF:-1,KCN1
+http://webtvstream.bhtelecom.ba/kcn1.m3u8
+#EXTINF:-1,KCN2
+http://webtvstream.bhtelecom.ba/kcn2.m3u8
+#EXTINF:-1,KCN3
+http://webtvstream.bhtelecom.ba/kcn3.m3u8
+#EXTINF:-1,HEMA
+http://webtvstream.bhtelecom.ba/hema.m3u8
+#EXTINF:-1,RTV BN
+http://webtvstream.bhtelecom.ba/rtv_bn.m3u8
+#EXTINF:-1,PRVA HERCEGOVACKA
+http://webtvstream.bhtelecom.ba/prva_hercegovacka.m3u8
+#EXTINF:-1,GLAS DRINE
+http://webtvstream.bhtelecom.ba/glas_drine_tv.m3u8
+#EXTINF:-1,RTV SANA
+http://webtvstream.bhtelecom.ba/rtv_sana.m3u8
+#EXTINF:-1,ISLAM CHANEL
+http://webtvstream.bhtelecom.ba/islam_channel.m3u8
+#EXTINF:-1,SAUDI QURAN
+http://webtvstream.bhtelecom.ba/saudi_quran.m3u8
+#EXTINF:-1,FRANCE24 ENGLISH
+http://webtvstream.bhtelecom.ba/france24_eng.m3u8
+#EXTINF:-1,FRANCE FRANCAIS
+http://webtvstream.bhtelecom.ba/france24_fra.m3u8
+#EXTINF:-1,FRANCE  ARABIC
+http://webtvstream.bhtelecom.ba/france24_arab.m3u8
+#EXTINF:-1,CCTV4
+http://webtvstream.bhtelecom.ba/live/cctv.m3u8
+#EXTINF:-1,CC TV NEWS
+http://webtvstream.bhtelecom.ba/cctv_news.m3u8
+#EXTINF:-1,CCTV DOCUMENTARY
+http://webtvstream.bhtelecom.ba/cctv_documentary.m3u8
+#EXTINF:-1,TV5 MONDE
+http://webtvstream.bhtelecom.ba/tv5_monde.m3u8
+#EXTINF:-1,PINK
+http://webtvstream.bhtelecom.ba/live/pink.m3u8
+#EXTINF:-1,PINK 2
+http://webtvstream.bhtelecom.ba/pink2.m3u8
+#EXTINF:-1,PINK 3 info
+http://webtvstream.bhtelecom.ba/pink3_info.m3u8
+#EXTINF:-1,PINK M
+http://webtvstream.bhtelecom.ba/pink_m.m3u8
+#EXTINF:-1,PINK EXTRA
+http://webtvstream.bhtelecom.ba/pink_extra.m3u8
+#EXTINF:-1,PINK LIFE STYLE
+http://webtvstream.bhtelecom.ba/pink_style.m3u8
+#EXTINF:-1, PINK ZABAVA
+http://webtvstream.bhtelecom.ba/pink_zabava.m3u8
+#EXTINF:-1,PINK HITS
+http://webtvstream.bhtelecom.ba/pink_hits.m3u8
+#EXTINF:-1,PINK HITS 2
+http://webtvstream.bhtelecom.ba/pink_hits2.m3u8
+#EXTINF:-1,PINK MUSIC 2
+http://webtvstream.bhtelecom.ba/pink_music2.m3u8
+#EXTINF:-1,BRAVO MUSIC
+http://webtvstream.bhtelecom.ba/bravo_music.m3u8
+#EXTINF:-1,PINK FOLK 1
+http://195.222.57.183:1935/live/pink_folk1.m3u8
+#EXTINF:-1,PINK FOLK 2
+http://webtvstream.bhtelecom.ba/pink_folk2.m3u8
+#EXTINF:-1,PINK KONCERT
+http://webtvstream.bhtelecom.ba/pink_koncert.m3u8
+#EXTINF:-1,PINK N ROLL
+http://webtvstream.bhtelecom.ba/pink_nroll.m3u8
+#EXTINF:-1,PINK KIDS
+http://webtvstream.bhtelecom.ba/pink_kids.m3u8
+#EXTINF:-1,PINK FAMILY
+http://webtvstream.bhtelecom.ba/pink_family.m3u8
+#EXTINF:-1,PINK ROMANCE
+http://webtvstream.bhtelecom.ba/pink_romance.m3u8
+#EXTINF:-1,PINK SOAP
+http://webtvstream.bhtelecom.ba/pink_soap.m3u8
+#EXTINF:-1,PINK FILM
+http://webtvstream.bhtelecom.ba/pink_film.m3u8
+#EXTINF:-1,PINK ACTION
+http://webtvstream.bhtelecom.ba/pink_action.m3u8
+#EXTINF:-1,PINK THRILLER
+http://webtvstream.bhtelecom.ba/pink_thriller.m3u8
+#EXTINF:-1,PINK PREMIUM
+http://webtvstream.bhtelecom.ba/pink_premium.m3u8
+#EXTINF:-1,PINK COMEDY
+http://webtvstream.bhtelecom.ba/pink_comedy.m3u8
+#EXTINF:-1,PINK CRIME AND MYSTERY
+http://webtvstream.bhtelecom.ba/pink_crime_mystery.m3u8
+#EXTINF:-1,PINK SCIFI AND FANTASY
+http://webtvstream.bhtelecom.ba/pink_scifi_fantasy.m3u8
+#EXTINF:-1,PINK WEATERN
+http://webtvstream.bhtelecom.ba/pink_western.m3u8
+#EXTINF:-1,PINK CLASSIC
+http://webtvstream.bhtelecom.ba/pink_clasic.m3u8
+#EXTINF:-1,PINK WORLD
+http://webtvstream.bhtelecom.ba/pink_world.m3u8
+#EXTINF:-1,PINK PEDIA
+http://webtvstream.bhtelecom.ba/pink_pedia.m3u8
+#EXTINF:-1,LIVE BJELASNICA
+http://195.222.59.140:1935/live/bjelasnica.stream/playlist.m3u8
+#EXTINF:-1,LIVE BJELASNICA SKI STAZA
+http://195.222.59.140:1935/live/bjelasnica2.stream/playlist.m3u8
+#EXTINF:-1,LIVE VLASIC
+http://195.222.59.140:1935/live/vlasic.stream/playlist.m3u8
+#EXTINF:-1,LIVE NEUM
+http://195.222.59.140:1935/live/neum.stream/playlist.m3u8
+#EXTINF:-1,LIVE IGMAN
+http://195.222.59.140:1935/live/camigman.stream/playlist.m3u8
+#EXTINF:-1,DOLAC MALTA
+http://195.222.59.140:1935/live/malta.stream/playlist.m3u8
+#EXTINF:-1,LIVA JAHORINA
+http://195.222.59.140:1935/live/jahorina.stream/playlist.m3u8
+#EXTINF:-1,LIVE  MOSTAR
+http://195.222.59.140:1935/live/mostar_cam.stream/playlist.m3u8
+#EXTINF:-1,LIVE SARAJEVO
+http://195.222.59.140:1935/live/sarajevo_cam.stream/playlist.m3u8
+#EXTINF:-1,LIVE TRAVNIK
+http://195.222.59.140:1935/live/travnik_cam.stream/playlist.m3u8
+#EXTINF:-1,LIVE MOJMILO
+http://195.222.59.140:1935/live/mojmilo_cam.stream/playlist.m3u8
+#EXTINF:-1,LIVE VISOKO
+http://195.222.59.140:1935/live/visoko_cam.stream/playlist.m3u8
+#EXTINF:-1,LIVE STOLAC
+http://195.222.59.140:1935/live/stolac_cam.stream/playlist.m3u8
 Channel namme:LIVE MOSTAR PANORAMA
-#EXTINF:0,URL1:http://195.222.59.140:1935/live/mostar_cam_pan.stream/playlist.m3u8
+http://195.222.59.140:1935/live/mostar_cam_pan.stream/playlist.m3u8
