@@ -1,377 +1,1340 @@
-#EXTM3U
-#EXTINF:-1,<<<MOJA TV BH TELEKOM>>>
-#EXTINF:-1,BHT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/bht1.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-#EXTINF:-1,FEDERALNA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/ftv.m3u8
-#EXTINF:-1,HAYAT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/hayat.m3u8
-#EXTINF:-1,HAYAT PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/hayatplus.m3u8
-#EXTINF:-1,PINK BIH
-http://webtvstream.bhtelecom.baSafari/537.36/pink_bh.m3u8
-#EXTINF:-1,RTV TK 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtv_tk.m3u8
-#EXTINF:-1,TV SARAJEVO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/tvsa.m3u8
-#EXTINF:-1,TV 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/tv1.m3u8
-#EXTINF:-1,OBN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/obn.m3u8
-#EXTINF:-1,RTL TELEVIZIJA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtl_hr.m3u8
-#EXTINF:-1,RTL 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtl2_hr.m3u8
-#EXTINF:-1,RTL LIVING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtl_living.m3u8
-#EXTINF:-1,M1 FILM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/m1_film.m3u8
-#EXTINF:-1,arena 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/arena1.m3u8
-#EXTINF:-1,ARENA HR 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/arenahr.m3u8
-#EXTINF:-1,arena 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/arena2.m3u8
-#EXTINF:-1,arena 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/arena3.m3u8
-#EXTINF:-1,arena 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/arena4.m3u8
-#EXTINF:-1,PREMIER LIGA BIH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-URL:http://webtvstream.bhtelecom.ba/bhtpremier.m3u8
-#EXTINF:-1,CITY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/city_tv.m3u8
-#EXTINF:-1,AL JAZIRA BALKAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/live/ajb.m3u8
-#EXTINF:-1,FACE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/facetv.m3u8
-#EXTINF:-1,RTRS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtrs.m3u8
-#EXTINF:-1,HAYATovci
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/hayatovci.m3u8
-#EXTINF:-1,RTL KOCKICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtl_kockica.m3u8
-#EXTINF:-1,MINIMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/minimax.m3u8
-#EXTINF:-1,NICKELODEON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/nickelodeon.m3u8
-#EXTINF:-1,NICK JR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/nickjr.m3u8
-#EXTINF:-1,HAYAT MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/hayat_music.m3u8
-#EXTINF:-1,HAYAT FOLK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/hayat_folk.m3u8
-#EXTINF:-1,DM SAT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/dm_sat.m3u8
-#EXTINF:-1,ELTA TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/elta.m3u8
-#EXTINF:-1,IZVORNA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/izvorna_tv.m3u8
-#EXTINF:-1,JASMIN TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/tv_jasmin.m3u8
-#EXTINF:-1,OTV VALENTINO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/otv_valentino.m3u8
-#EXTINF:-1,VALENTINO MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/valentino_music.m3u8
-#EXTINF:-1,VALENTINO ETNO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/valentino_etno.m3u8
-#EXTINF:-1,BN MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/bn_music.m3u8
-#EXTINF:-1,TV ZENICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtv_zenica.m3u8
-#EXTINF:-1,RTV  7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/tv7.m3u8
-#EXTINF:-1,ATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/atv.m3u8
-#EXTINF:-1,TV MOSTAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtv_mostar.m3u8
-#EXTINF:-1,RTV USK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtv_usk.m3u8
-#EXTINF:-1,NTV KAKANJ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/ntvic_kakanj.m3u8
-#EXTINF:-1,rtv slon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtv_slon.m3u8
-#EXTINF:-1,HIT BRCKO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/hit_brcko.m3u8
-#EXTINF:-1,NTV 101
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/ntv101.m3u8
-#EXTINF:-1,TV GORAZDE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/gorazde.m3u8
-#EXTINF:-1,MTV IGMAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/mtv_igman.m3u8
-#EXTINF:-1,TELEVIZIJA  5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/televizija5.m3u8
-#EXTINF:-1,VOGOSCA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/vogosca.m3u8
-#EXTINF:-1,BEHAR 
-TV#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-
-http://webtvstream.bhtelecom.ba/behar.m3u8
-#EXTINF:-1,JATA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/jata.m3u8
-#EXTINF:-1,VISOKO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/live/visoko.m3u8
-#EXTINF:-1,SMART TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/smart_tv.m3u8
-#EXTINF:-1,RTV MAGLAJ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtv_maglaj.m3u8
-#EXTINF:-1,KISS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-URL:http://webtvstream.bhtelecom.ba/live/kiss.m3u8
-#EXTINF:-1,KANAL 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/kanal6.m3u8
-#EXTINF:-1,CAZIN TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtv_cazin.m3u8
-#EXTINF:-1,K3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/live/k3.m3u8
-#EXTINF:-1,RTV ZIVINICE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtv_zivinice.m3u8
-#EXTINF:-1,RTV LUKAVAC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtv_lukavac.m3u8
-#EXTINF:-1,OSM TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/osm.m3u8
-#EXTINF:-1,ALFA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/live/alfa_tv.m3u8
-#EXTINF:-1,BDC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/bdc_tv.m3u8
-#EXTINF:-1,RTV JABLANICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtv_jablanica.m3u8
-#EXTINF:-1,NOVI PAZAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pazar.m3u8
-#EXTINF:-1,SANDZAK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/sandzak_tv.m3u8
-#EXTINF:-1,KCN1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/kcn1.m3u8
-#EXTINF:-1,KCN2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/kcn2.m3u8
-#EXTINF:-1,KCN3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/kcn3.m3u8
-#EXTINF:-1,HEMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/hema.m3u8
-#EXTINF:-1,RTV BN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtv_bn.m3u8
-#EXTINF:-1,PRVA HERCEGOVACKA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/prva_hercegovacka.m3u8
-#EXTINF:-1,GLAS DRINE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/glas_drine_tv.m3u8
-#EXTINF:-1,RTV SANA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/rtv_sana.m3u8
-#EXTINF:-1,ISLAM CHANEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/islam_channel.m3u8
-#EXTINF:-1,SAUDI QURAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/saudi_quran.m3u8
-#EXTINF:-1,FRANCE24 ENGLISH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/france24_eng.m3u8
-#EXTINF:-1,FRANCE FRANCAIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/france24_fra.m3u8
-#EXTINF:-1,FRANCE 
-ARABIC#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/france24_arab.m3u8
-#EXTINF:-1,CCTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/live/cctv.m3u8
-#EXTINF:-1,CC TV NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/cctv_news.m3u8
-#EXTINF:-1,CCTV DOCUMENTARY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/cctv_documentary.m3u8
-#EXTINF:-1,TV5 MONDE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/tv5_monde.m3u8
-#EXTINF:-1,PINK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/live/pink.m3u8
-#EXTINF:-1,PINK 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink2.m3u8
-#EXTINF:-1,PINK 3 info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink3_info.m3u8
-#EXTINF:-1,PINK M
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_m.m3u8
-#EXTINF:-1,PINK EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_extra.m3u8
-#EXTINF:-1,PINK LIFE STYLE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_style.m3u8
-#EXTINF:-1, PINK ZABAVA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_zabava.m3u8
-#EXTINF:-1,PINK HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_hits.m3u8
-#EXTINF:-1,PINK HITS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_hits2.m3u8
-#EXTINF:-1,PINK MUSIC 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_music2.m3u8
-#EXTINF:-1,BRAVO MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/bravo_music.m3u8
-#EXTINF:-1,PINK FOLK 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://195.222.57.183:1935/live/pink_folk1.m3u8
-#EXTINF:-1,PINK FOLK 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_folk2.m3u8
-#EXTINF:-1,PINK KONCERT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_koncert.m3u8
-#EXTINF:-1,PINK N ROLL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_nroll.m3u8
-#EXTINF:-1,PINK KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_kids.m3u8
-#EXTINF:-1,PINK FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_family.m3u8
-#EXTINF:-1,PINK ROMANCE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_romance.m3u8
-#EXTINF:-1,PINK SOAP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_soap.m3u8
-#EXTINF:-1,PINK FILM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_film.m3u8
-#EXTINF:-1,PINK ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_action.m3u8
-#EXTINF:-1,PINK THRILLER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_thriller.m3u8
-#EXTINF:-1,PINK PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_premium.m3u8
-#EXTINF:-1,PINK COMEDY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_comedy.m3u8
-#EXTINF:-1,PINK CRIME AND MYSTERY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_crime_mystery.m3u8
-#EXTINF:-1,PINK SCIFI AND FANTASY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_scifi_fantasy.m3u8
-#EXTINF:-1,PINK WESTERN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_western.m3u8
-#EXTINF:-1,PINK CLASSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_clasic.m3u8
-#EXTINF:-1,PINK WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_world.m3u8
-#EXTINF:-1,PINK PEDIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://webtvstream.bhtelecom.ba/pink_pedia.m3u8
-#EXTINF:-1,LIVE BJELASNICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3Mobile Safari/537.36
-http://195.222.59.140:1935/live/bjelasnica.stream/playlist.m3u8
-#EXTINF:-1,LIVE BJELASNICA SKI STAZA
-http://195.222.59.140:1935/live/bjelasnica2.stream/playlist.m3u8
-#EXTINF:-1,LIVE VLASIC
-http://195.222.59.140:1935/live/vlasic.stream/playlist.m3u8
-#EXTINF:-1,LIVE NEUM
-http://195.222.59.140:1935/live/neum.stream/playlist.m3u8
-#EXTINF:-1,LIVE IGMAN
-http://195.222.59.140:1935/live/camigman.stream/playlist.m3u8
-#EXTINF:-1,DOLAC MALTA
-http://195.222.59.140:1935/live/malta.stream/playlist.m3u8
-#EXTINF:-1,LIVA JAHORINA
-http://195.222.59.140:1935/live/jahorina.stream/playlist.m3u8
-#EXTINF:-1,LIVE  MOSTAR
-http://195.222.59.140:1935/live/mostar_cam.stream/playlist.m3u8
-#EXTINF:-1,LIVE SARAJEVO
-http://195.222.59.140:1935/live/sarajevo_cam.stream/playlist.m3u8
-#EXTINF:-1,LIVE TRAVNIK
-http://195.222.59.140:1935/live/travnik_cam.stream/playlist.m3u8
-#EXTINF:-1,LIVE MOJMILO
-http://195.222.59.140:1935/live/mojmilo_cam.stream/playlist.m3u8
-#EXTINF:-1,LIVE VISOKO
-http://195.222.59.140:1935/live/visoko_cam.stream/playlist.m3u8
-#EXTINF:-1,LIVE STOLAC
-http://195.222.59.140:1935/live/stolac_cam.stream/playlist.m3u8
-Channel namme:LIVE MOSTAR PANORAMA
-http://195.222.59.140:1935/live/mostar_cam_pan.stream/playlist.m3u8
+#EXTINF:-1 ,SI| NOVA24 TV 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=744758&extension=ts&play_token=ImdnvWTe32
+#EXTINF:-1 ,SI| NOVA24 TV 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=744757&extension=ts&play_token=DJltOqrT7n
+#EXTINF:-1 ,SI| MMC TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=744756&extension=ts&play_token=ZiISRQmc3M
+#EXTINF:-1 ,SI| VESELJAK FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=733283&extension=ts&play_token=Emsr6sgMc9
+#EXTINF:-1 ,SI| SLO 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110928&extension=ts&play_token=1cKOvIAvVy
+#EXTINF:-1 ,SI| SLO 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110929&extension=ts&play_token=x7mbq5I5ek
+#EXTINF:-1 ,SI| POP TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110930&extension=ts&play_token=BKA8UGs4Ld
+#EXTINF:-1 ,SI| POP OTO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110931&extension=ts&play_token=A7YSOLqUY2
+#EXTINF:-1 ,SI| POP KINO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110932&extension=ts&play_token=hEZ7MP1Krp
+#EXTINF:-1 ,SI| POP BRIO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110933&extension=ts&play_token=bg01WHrtA6
+#EXTINF:-1 ,SI| PLANET TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110934&extension=ts&play_token=tInWZZJDvF
+#EXTINF:-1 ,SI| KANAL A
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110935&extension=ts&play_token=pff8ilLlXO
+#EXTINF:-1 ,SI| SLO 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162086&extension=ts&play_token=wLxnfhCzMx
+#EXTINF:-1 ,BA| RTV SLON
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162087&extension=ts&play_token=gJNBnAr2yV
+#EXTINF:-1 ,RS| RTS SVET HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110775&extension=ts&play_token=FxGCmrU5Xj
+#EXTINF:-1 ,RS| RTS 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110778&extension=ts&play_token=f2EWJ46TZf
+#EXTINF:-1 ,RS| RTS 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161992&extension=ts&play_token=ySDRKzh9XT
+#EXTINF:-1 ,RS| RTS 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=228704&extension=ts&play_token=67bdQPXrN0
+#EXTINF:-1 ,RS| RTS 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161993&extension=ts&play_token=wDg5EeuxKQ
+#EXTINF:-1 ,RS| RTS 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110777&extension=ts&play_token=zi2XH9RFiv
+#EXTINF:-1 ,RS| RTS 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161994&extension=ts&play_token=ToYQ9d7oRk
+#EXTINF:-1 ,RS| RTS 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110776&extension=ts&play_token=ONaSHrbX0r
+#EXTINF:-1 ,RS| RTS TREZOR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162000&extension=ts&play_token=I12kkNv6E9
+#EXTINF:-1 ,RS| RTS MUZIKA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161999&extension=ts&play_token=JrqqHhkFv8
+#EXTINF:-1 ,RS| RTS KOLO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161998&extension=ts&play_token=nfYJPDY0Za
+#EXTINF:-1 ,RS| RTS ZIVOT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161997&extension=ts&play_token=N4Jf50W5dd
+#EXTINF:-1 ,RS| RTS DRAMA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161996&extension=ts&play_token=Ps4Jnbs2AJ
+#EXTINF:-1 ,RS| RTS POLETARAC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1159828&extension=ts&play_token=Cw1TKMDuRb
+#EXTINF:-1 ,RS| EURONEWS SERBIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=865452&extension=ts&play_token=M4HSO2FyQO
+#EXTINF:-1 ,RS| N1 INFO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110836&extension=ts&play_token=FB68tu2UUu
+#EXTINF:-1 ,RS| PRVA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110783&extension=ts&play_token=fOVI0f44jd
+#EXTINF:-1 ,RS| PRVA PLUS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110781&extension=ts&play_token=fAcGzpTHJk
+#EXTINF:-1 ,RS| PRVA WORLD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110780&extension=ts&play_token=cC3Wf5uAsC
+#EXTINF:-1 ,RS| PRVA MAX HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110782&extension=ts&play_token=1TefxKmMLg
+#EXTINF:-1 ,RS| PRVA KICK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161991&extension=ts&play_token=4xxdFqF1Kb
+#EXTINF:-1 ,RS| PRVA FILES
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1159829&extension=ts&play_token=TTnhwnifBY
+#EXTINF:-1 ,RS| NOVA S
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110829&extension=ts&play_token=CQOgaI2j5s
+#EXTINF:-1 ,RS| NOVA S
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1180130&extension=ts&play_token=iiQUXQl6uI
+#EXTINF:-1 ,RS| SUPERSTAR TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=554686&extension=ts&play_token=ZZYLBINYN9
+#EXTINF:-1 ,RS| SUPERSTAR 2 TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110830&extension=ts&play_token=Zm6coeEGxS
+#EXTINF:-1 ,RS| B92
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110903&extension=ts&play_token=76dlYMRGso
+#EXTINF:-1 ,RS| HAPPY TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110852&extension=ts&play_token=ZUvLLh8Mii
+#EXTINF:-1 ,RS| HAPPY ZEMLJA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1495496&extension=ts&play_token=RXjOC9BShe
+#EXTINF:-1 ,RS| HAPPY DRUSTVO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1495495&extension=ts&play_token=paYOOthEnM
+#EXTINF:-1 ,RS| HAPPY ZIVOT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1495494&extension=ts&play_token=165hCqsFcD
+#EXTINF:-1 ,RS| RTV  VOJVODINA 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110774&extension=ts&play_token=Mf3SIRbVfA
+#EXTINF:-1 ,RS| RTV VOJVODINA 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162002&extension=ts&play_token=Ux1ckaaIIP
+#EXTINF:-1 ,RS| RTV VOJVODINA 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110773&extension=ts&play_token=oqsrJ1gII9
+#EXTINF:-1 ,RS| BLIC TV FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1040304&extension=ts&play_token=7xOGwm2L8j
+#EXTINF:-1 ,RS| KURIR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=852365&extension=ts&play_token=CSF6iLo1tg
+#EXTINF:-1 ,RS| STUDIO B
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162083&extension=ts&play_token=52dL41cicv
+#EXTINF:-1 ,RS| K1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=814890&extension=ts&play_token=Uy2tBkcq7l
+#EXTINF:-1 ,RS| K1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110725&extension=ts&play_token=gDlCxCF2kM
+#EXTINF:-1 ,RS| PALMA PLUS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162085&extension=ts&play_token=Z6zyzY41KY
+#EXTINF:-1 ,RS| TV BELLE AMIE HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=744775&extension=ts&play_token=37kfbEN1dL
+#EXTINF:-1 ,RS|  MLAVA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161915&extension=ts&play_token=IzxJMJE2eG
+#EXTINF:-1 ,RS| INFORMER TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1585602&extension=ts&play_token=Q5BKmhRxk1
+#EXTINF:-1 ,RS| SANDZAK TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162084&extension=ts&play_token=ra0aY9lPvj
+#EXTINF:-1 ,RS| NOVI PAZAR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110828&extension=ts&play_token=bNv4HNWpe9
+#EXTINF:-1 ,RS| TV ISTOK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110757&extension=ts&play_token=C3m05s0ajl
+#EXTINF:-1 ,RS| TV LESKOVAC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1159831&extension=ts&play_token=SuyRm2L0Tq
+#EXTINF:-1 ,RS| AURORA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1159832&extension=ts&play_token=C8XuqY60YP
+#EXTINF:-1 ,RS| AGRO TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1360599&extension=ts&play_token=5tr7dH0NS2
+#EXTINF:-1 ,HR| HRT 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110722&extension=ts&play_token=aW743UUDnN
+#EXTINF:-1 ,HR| HRT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110721&extension=ts&play_token=okOpndVAMV
+#EXTINF:-1 ,HR| HRT 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110720&extension=ts&play_token=PyfArAdUJE
+#EXTINF:-1 ,HR| HRT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110719&extension=ts&play_token=3JsPbadrWc
+#EXTINF:-1 ,HR| HRT 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110718&extension=ts&play_token=koEj5wmfUa
+#EXTINF:-1 ,HR| HRT 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110717&extension=ts&play_token=9oufyBBX9t
+#EXTINF:-1 ,HR| HRT 4
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110716&extension=ts&play_token=GPBNqEGyQq
+#EXTINF:-1 ,HR| HRT 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110715&extension=ts&play_token=w9EBFhUXmo
+#EXTINF:-1 ,HR| HRT INT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1608072&extension=ts&play_token=E2PYOy56Fg
+#EXTINF:-1 ,HR| N1 HR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161957&extension=ts&play_token=j5tzXPL9ja
+#EXTINF:-1 ,HR| NOVA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110702&extension=ts&play_token=3VqNllne1Y
+#EXTINF:-1 ,HR| NOVA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110703&extension=ts&play_token=mjfJisegxy
+#EXTINF:-1 ,HR| NOVA FAMILY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1160141&extension=ts&play_token=HMLQw0KQX3
+#EXTINF:-1 ,HR| NOVA CINEMA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=845283&extension=ts&play_token=z9AY2CUY5x
+#EXTINF:-1 ,HR| NOVA CINEMA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1160142&extension=ts&play_token=uME1VpeVmc
+#EXTINF:-1 ,HR| DOMA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110728&extension=ts&play_token=J0wIyIA2Od
+#EXTINF:-1 ,HR| DOMA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110729&extension=ts&play_token=qi8iAVi9pU
+#EXTINF:-1 ,HR| RTL TELEVIZIJA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110693&extension=ts&play_token=ybPAbCPgyK
+#EXTINF:-1 ,HR| RTL 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110698&extension=ts&play_token=Jv6vlu6SuL
+#EXTINF:-1 ,HR| RTL CRIME
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110697&extension=ts&play_token=nTE4fUMqJZ
+#EXTINF:-1 ,HR| RTL ADRIA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=726566&extension=ts&play_token=vTdFMD8n6G
+#EXTINF:-1 ,HR| RTL LIVING
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110695&extension=ts&play_token=2mDC4AVg1U
+#EXTINF:-1 ,HR| RTL PASSION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110694&extension=ts&play_token=avLRDC9SDl
+#EXTINF:-1 ,HR| RTL KOCKICA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110696&extension=ts&play_token=U2YkJMySoO
+#EXTINF:-1 ,HR| TV NOVA PULA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1608427&extension=ts&play_token=Dm9IXxNcAB
+#EXTINF:-1 ,HR| TREND TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1608426&extension=ts&play_token=CBMpC8AFb4
+#EXTINF:-1 ,HR| TREND AND KARLOVAC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1655494&extension=ts&play_token=J2AVVxADhW
+#EXTINF:-1 ,HR| SABORSKA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1608456&extension=ts&play_token=B9NtDvy1cJ
+#EXTINF:-1 ,HR| OTV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1608447&extension=ts&play_token=PMDG80NK9E
+#EXTINF:-1 ,HR| TELEVIZIJA ZAPAD HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1608446&extension=ts&play_token=OwxcnIS4qN
+#EXTINF:-1 ,HR| LAUDATO TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=867270&extension=ts&play_token=rQD292qmub
+#EXTINF:-1 ,HR| MREZA ZG
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162026&extension=ts&play_token=ZGHVmssezy
+#EXTINF:-1 ,HR| ZDRAVA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162021&extension=ts&play_token=kFv6FquNpz
+#EXTINF:-1 ,HR| VINKOVACKA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110686&extension=ts&play_token=NkNasSknn8
+#EXTINF:-1 ,HR| JADRAN TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1038583&extension=ts&play_token=nbHKAnGCtW
+#EXTINF:-1 ,HR| S TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=744779&extension=ts&play_token=k9UUMQ5OX0
+#EXTINF:-1 ,HR| OSJECKA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110700&extension=ts&play_token=8RYYjjDaAh
+#EXTINF:-1 ,BA| BHT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110680&extension=ts&play_token=ZqVC7gyF1c
+#EXTINF:-1 ,BA| RTRS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110655&extension=ts&play_token=AQg1YnIDJN
+#EXTINF:-1 ,BA| RTRS PLUS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110654&extension=ts&play_token=z1YziTiLMA
+#EXTINF:-1 ,BA| N1 BH
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110676&extension=ts&play_token=VWLCeltQsV
+#EXTINF:-1 ,BA| N1 BH HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162033&extension=ts&play_token=xX62g1W52E
+#EXTINF:-1 ,BA| NOVA BH
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110644&extension=ts&play_token=q5JPY3WTZJ
+#EXTINF:-1 ,BA| NOVA HD BH
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110661&extension=ts&play_token=s7OCM5MRDc
+#EXTINF:-1 ,BA| NOVA BH BACKUP
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110662&extension=ts&play_token=2BB2jiugvw
+#EXTINF:-1 ,BA| BN TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110679&extension=ts&play_token=Owu1Qroquk
+#EXTINF:-1 ,BA| BN2 TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=845205&extension=ts&play_token=17NK22DfbX
+#EXTINF:-1 ,BA| OBN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110660&extension=ts&play_token=owOXdXl0pr
+#EXTINF:-1 ,BA| FACE TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110674&extension=ts&play_token=zAE98sadWg
+#EXTINF:-1 ,BA| FACE TV FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162040&extension=ts&play_token=tuuSkBupyz
+#EXTINF:-1 ,BA| FEDERALNA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110673&extension=ts&play_token=DkIAXWatSk
+#EXTINF:-1 ,BA| FEDERALNA TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162038&extension=ts&play_token=DrJpVdCBZz
+#EXTINF:-1 ,BA| HAYAT HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162037&extension=ts&play_token=iV4rTdLVc6
+#EXTINF:-1 ,BA| HAYAT TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110668&extension=ts&play_token=cv7dEiggdo
+#EXTINF:-1 ,BA| HAYAT PLUS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110669&extension=ts&play_token=Y29L3pPVFf
+#EXTINF:-1 ,BA| TATABRADA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1189115&extension=ts&play_token=m2gihDQcug
+#EXTINF:-1 ,BA| AL JAZEERA BALKANS FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162032&extension=ts&play_token=xyhvVDqWNT
+#EXTINF:-1 ,BA| AL JAZEERA BALKANS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110684&extension=ts&play_token=SFHQdNo8b3
+#EXTINF:-1 ,BA| TELEVIZIJA 5
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161924&extension=ts&play_token=n3XGTiw22t
+#EXTINF:-1 ,BA| TELEVIZIJA 5 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161925&extension=ts&play_token=Jk9RdOchKL
+#EXTINF:-1 ,BA| RTV CAZIN HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=744773&extension=ts&play_token=SV3YupKJ5l
+#EXTINF:-1 ,BA| RTV CAZIN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1134410&extension=ts&play_token=LwUjZH5oPz
+#EXTINF:-1 ,BA| RTV BIR HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1199296&extension=ts&play_token=bQSGJA4E6T
+#EXTINF:-1 ,BA| ATV HD BANJA LUKA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110682&extension=ts&play_token=yxqGUtgLPF
+#EXTINF:-1 ,BA| RTV PODRINJE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1486586&extension=ts&play_token=jWAfWdgVED
+#EXTINF:-1 ,BA| RTV KRAJINA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1394503&extension=ts&play_token=DpLyjMryDq
+#EXTINF:-1 ,BA| ATV BANJA LUKA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162036&extension=ts&play_token=tmgCkqfQkx
+#EXTINF:-1 ,BA| GLAS DRINE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110672&extension=ts&play_token=Ootv7NEzXu
+#EXTINF:-1 ,BA| HIT TELEVIZIJA BRCKO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110666&extension=ts&play_token=JUyjlAjxCH
+#EXTINF:-1 ,BA| K3 PRNJAVOR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110664&extension=ts&play_token=VXTRCMl1AK
+#EXTINF:-1 ,BA| SIMIC TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110772&extension=ts&play_token=IkxqGtoZij
+#EXTINF:-1 ,BA| IZVORNA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110665&extension=ts&play_token=ojqyi1WrKU
+#EXTINF:-1 ,BA| MTV IGMAN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110663&extension=ts&play_token=eF0LkUqVoG
+#EXTINF:-1 ,BA| RTV USK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110653&extension=ts&play_token=o43bLTeWP0
+#EXTINF:-1 ,BA| RTV ZENICA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110652&extension=ts&play_token=VYgMSEfbIJ
+#EXTINF:-1 ,BA| CITY TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110675&extension=ts&play_token=vg4wTVCjHU
+#EXTINF:-1 ,BA| SEVDAH
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110650&extension=ts&play_token=aiaeOTecON
+#EXTINF:-1 ,BA| TV SARAJEVO FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162034&extension=ts&play_token=Njvg75bWCN
+#EXTINF:-1 ,BA| TV SARAJEVO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110647&extension=ts&play_token=oeuyXAkVqi
+#EXTINF:-1 ,BA| HAHA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162043&extension=ts&play_token=YOMHNWLKqV
+#EXTINF:-1 ,BA| TK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162041&extension=ts&play_token=TqLiPbGae2
+#EXTINF:-1 ,BA| RTV SANA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1160146&extension=ts&play_token=X7BdSYhRy3
+#EXTINF:-1 ,BA| RTV LUKAVAC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1160147&extension=ts&play_token=ESp6jq8COq
+#EXTINF:-1 ,BA| NEON TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1433999&extension=ts&play_token=PFjMQ6HLUQ
+#EXTINF:-1 ,MK| MRT 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110744&extension=ts&play_token=pYY322Yxrd
+#EXTINF:-1 ,MK| MRT 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110743&extension=ts&play_token=kTNNc1uRen
+#EXTINF:-1 ,MK| MRT 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161917&extension=ts&play_token=YmEt8Ipihq
+#EXTINF:-1 ,MK| MRT 4
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=830803&extension=ts&play_token=m6CBIlkdbZ
+#EXTINF:-1 ,MK| MRT 5
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=830804&extension=ts&play_token=DF2uvRnH1n
+#EXTINF:-1 ,MK| SITEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110741&extension=ts&play_token=zIUQDp85Y4
+#EXTINF:-1 ,MK| SITEL HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161918&extension=ts&play_token=X9dX48cIgR
+#EXTINF:-1 ,MK| SITEL FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261796&extension=ts&play_token=UAWZobhUIW
+#EXTINF:-1 ,MK| SITEL 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110739&extension=ts&play_token=Zy1cOAM7tQ
+#EXTINF:-1 ,MK| KANAL 5
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110745&extension=ts&play_token=kFRNVuKI0F
+#EXTINF:-1 ,MK| KANAL 5 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=318980&extension=ts&play_token=ypNFXkjxln
+#EXTINF:-1 ,MK| 24 VESTI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110747&extension=ts&play_token=40z3sqKhiP
+#EXTINF:-1 ,MK|  24 VESTI HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161908&extension=ts&play_token=HNFrmGMX0l
+#EXTINF:-1 ,MK| TELMA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110738&extension=ts&play_token=f7QokTeypU
+#EXTINF:-1 ,MK| ALFA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110746&extension=ts&play_token=h1t1TRtS4g
+#EXTINF:-1 ,MK| ALFA TV SD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261757&extension=ts&play_token=tpiyMTRujw
+#EXTINF:-1 ,MK| ALFA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110683&extension=ts&play_token=mw1f3PaWem
+#EXTINF:-1 ,MK| NASA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110742&extension=ts&play_token=hDG3H2d58U
+#EXTINF:-1 ,MK| TV NOVA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261806&extension=ts&play_token=hW5C77LB4q
+#EXTINF:-1 ,MK| TV SONCE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261807&extension=ts&play_token=DNb9rDFVVY
+#EXTINF:-1 ,MK|  SUTEL TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161919&extension=ts&play_token=PuGEbA9usq
+#EXTINF:-1 ,MK| SUTEL TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261792&extension=ts&play_token=MoMMnLl7XY
+#EXTINF:-1 ,MK| ALSAT M HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261758&extension=ts&play_token=Vsl9yONvU2
+#EXTINF:-1 ,MK| KANAL 21 TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261778&extension=ts&play_token=cSL4FoHvoO
+#EXTINF:-1 ,MK| RTV21 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261755&extension=ts&play_token=Ldq7RtSYEI
+#EXTINF:-1 ,MK| KLAN MACEDONIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261784&extension=ts&play_token=Zsc9ZQgJqE
+#EXTINF:-1 ,MK| TV+ KUMANOVO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261791&extension=ts&play_token=shjp1ftHWy
+#EXTINF:-1 ,MK| TV2 GOSTIVAR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261794&extension=ts&play_token=vel7TeBEWD
+#EXTINF:-1 ,MK| TV TERA BITOLA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261804&extension=ts&play_token=idPcD6jmxO
+#EXTINF:-1 ,MK| MEGA BITOLA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261782&extension=ts&play_token=6yW2cTnb3s
+#EXTINF:-1 ,MK| KTV KAVADARCI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261773&extension=ts&play_token=nsOUHICAZR
+#EXTINF:-1 ,MK| O2 OHRID HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261768&extension=ts&play_token=lk4moIRhXe
+#EXTINF:-1 ,MK|  KANAL 8
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161914&extension=ts&play_token=tpbvv79JRD
+#EXTINF:-1 ,MK|  K3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161922&extension=ts&play_token=EhHfaGEhMp
+#EXTINF:-1 ,MK| TV 1000
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261805&extension=ts&play_token=vSZ55WNEei
+#EXTINF:-1 ,MK| M-NET INFO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1334147&extension=ts&play_token=CGCnCzS96k
+#EXTINF:-1 ,MK| M-NET KIDS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1334146&extension=ts&play_token=27vi9ELc61
+#EXTINF:-1 ,MK| HUGO TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261772&extension=ts&play_token=1Egu9XK3x0
+#EXTINF:-1 ,MK| HUGO 2 TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=777572&extension=ts&play_token=u5dWVKoeNx
+#EXTINF:-1 ,MK| HBO FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261769&extension=ts&play_token=9OPhpNn9tM
+#EXTINF:-1 ,MK| HBO 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261770&extension=ts&play_token=7nSNcro2GN
+#EXTINF:-1 ,MK| HBO 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261771&extension=ts&play_token=xeZg35OJ0g
+#EXTINF:-1 ,MK| CINESTAR TV PREMIERE 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261762&extension=ts&play_token=UynRJp4716
+#EXTINF:-1 ,MK| CINESTAR TV PREMIERE 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261763&extension=ts&play_token=0g8RIQT7Bz
+#EXTINF:-1 ,MK| STAR CHANNEL HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261761&extension=ts&play_token=lhaq8aoMvT
+#EXTINF:-1 ,MK| FILM BOX PLUS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261765&extension=ts&play_token=PHcVL2BqDk
+#EXTINF:-1 ,MK| DISCOVERY CHANNEL [Multi-Sub]
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261764&extension=ts&play_token=TsrWr226ho
+#EXTINF:-1 ,MK| ANIMAL PLANET [Multi-Sub]
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261759&extension=ts&play_token=SXsbaX5hey
+#EXTINF:-1 ,MK| FOX HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261785&extension=ts&play_token=oOm2QFn56k
+#EXTINF:-1 ,MK| FOX LIFE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261786&extension=ts&play_token=o2aByFJ0sk
+#EXTINF:-1 ,MK| VIASAT HISTORY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261809&extension=ts&play_token=Vtifo7Kl9S
+#EXTINF:-1 ,MK| VIASAT EXPLORE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261808&extension=ts&play_token=DEX8vTRN3L
+#EXTINF:-1 ,MK| TRAVEL CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261803&extension=ts&play_token=VntZBmA2Ou
+#EXTINF:-1 ,MK| TLC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261802&extension=ts&play_token=3uYV46jyFN
+#EXTINF:-1 ,MK| SKY FOLK HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261798&extension=ts&play_token=dMicdS87QW
+#EXTINF:-1 ,MK| SKY FOLK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=777570&extension=ts&play_token=bXGO8MWcho
+#EXTINF:-1 ,MK|  SKYFOLK MK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161927&extension=ts&play_token=Wg2qFYjt19
+#EXTINF:-1 ,MK| INTV AVSTRALIJA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261775&extension=ts&play_token=0MUcMAQLjk
+#EXTINF:-1 ,MK| BALKAN MUSIC HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261760&extension=ts&play_token=gg39UcGKRk
+#EXTINF:-1 ,MK| PLANETA TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261793&extension=ts&play_token=HzXRbmVg9F
+#EXTINF:-1 ,MK|  ROMA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161923&extension=ts&play_token=aZX7h2K41U
+#EXTINF:-1 ,MK| KOHA TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261783&extension=ts&play_token=SvfDTKx5mz
+#EXTINF:-1 ,MNG| NOVA M
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1159830&extension=ts&play_token=SCzqutgniD
+#EXTINF:-1 ,MNG| NOVA M
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110831&extension=ts&play_token=Zc8o8OD9c0
+#EXTINF:-1 ,MNG| RTCG SAT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110779&extension=ts&play_token=65OfDVnxpn
+#EXTINF:-1 ,MNG| RTCG
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=15691&extension=ts&play_token=GqI88KewQA
+#EXTINF:-1 ,MNG| RTVCG 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162080&extension=ts&play_token=XSsuMnr7TV
+#EXTINF:-1 ,MNG| RTVCG 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162081&extension=ts&play_token=JSLM1dsBX7
+#EXTINF:-1 ,MNG| CG PRVA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1600471&extension=ts&play_token=vRgq10sJ5B
+#EXTINF:-1 ,MNG| TV VIJESTI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162082&extension=ts&play_token=5OBkCDE8B1
+#EXTINF:-1 ,RS| ARENA SPORT 1x2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1526287&extension=ts&play_token=3H5oS86jRc
+#EXTINF:-1 ,RS| ARENA SPORT 1 PREMIUM HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=801858&extension=ts&play_token=327CHY9C1o
+#EXTINF:-1 ,RS| ARENA SPORT 1 PREMIUM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=801855&extension=ts&play_token=CUj9Vk5jyU
+#EXTINF:-1 ,RS| ARENA SPORT 2 PREMIUM HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=801859&extension=ts&play_token=6bY81Q3IbK
+#EXTINF:-1 ,RS| ARENA SPORT 2 PREMIUM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=801856&extension=ts&play_token=smvbsbUWd5
+#EXTINF:-1 ,RS| ARENA SPORT 3 PREMIUM HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=801860&extension=ts&play_token=5u8EN5PWbN
+#EXTINF:-1 ,RS| ARENA SPORT 3 PREMIUM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=801857&extension=ts&play_token=hgnRKxPTC1
+#EXTINF:-1 ,RS| ARENA SPORT 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110913&extension=ts&play_token=ER7svrej1U
+#EXTINF:-1 ,RS| ARENA SPORT 1 FHD (BK)
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1192360&extension=ts&play_token=9LD8buiBZX
+#EXTINF:-1 ,RS| ARENA SPORT 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110914&extension=ts&play_token=nUegNHW8Cw
+#EXTINF:-1 ,RS| ARENA SPORT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161931&extension=ts&play_token=XcBo8KThVR
+#EXTINF:-1 ,RS| ARENA SPORT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110911&extension=ts&play_token=uigb5jdzQj
+#EXTINF:-1 ,RS| ARENA SPORT 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110912&extension=ts&play_token=hYKMMih4Hh
+#EXTINF:-1 ,RS| ARENA SPORT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161932&extension=ts&play_token=SQXpGgguJ2
+#EXTINF:-1 ,RS| ARENA SPORT 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110909&extension=ts&play_token=le21uINlOH
+#EXTINF:-1 ,RS| ARENA SPORT 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110910&extension=ts&play_token=9gc3YeT0OR
+#EXTINF:-1 ,RS| ARENA SPORT 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161933&extension=ts&play_token=E20rln61Sq
+#EXTINF:-1 ,RS| ARENA SPORT 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110907&extension=ts&play_token=9Pl3Id2VpC
+#EXTINF:-1 ,RS| ARENA SPORT 4
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110908&extension=ts&play_token=w97R5Jqt1T
+#EXTINF:-1 ,RS| ARENA SPORT 4 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161934&extension=ts&play_token=SjDrVlMtuw
+#EXTINF:-1 ,RS| ARENA SPORT 5
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110906&extension=ts&play_token=5f5flhU0O2
+#EXTINF:-1 ,RS| ARENA SPORT 5 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161935&extension=ts&play_token=AlytmvwteI
+#EXTINF:-1 ,RS| ARENA SPORT 6 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161936&extension=ts&play_token=DegMNBGBY9
+#EXTINF:-1 ,RS| ARENA SPORT 7 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=71907&extension=ts&play_token=3W3PW23dZK
+#EXTINF:-1 ,RS| ARENA SPORT 8 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=71908&extension=ts&play_token=nKd3ZgH7Sg
+#EXTINF:-1 ,RS| EUROSPORT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110870&extension=ts&play_token=zCKfl4LbUB
+#EXTINF:-1 ,RS| EUROSPORT 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1192012&extension=ts&play_token=OXUbGB5RrA
+#EXTINF:-1 ,RS| EUROSPORT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110869&extension=ts&play_token=LnKmoHwqaJ
+#EXTINF:-1 ,RS| EUROSPORT 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1192013&extension=ts&play_token=adic8t7NxF
+#EXTINF:-1 ,MK| M-NET SPORT HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161941&extension=ts&play_token=Lng61vPd2p
+#EXTINF:-1 ,RS| PARTIZAN TV FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1002103&extension=ts&play_token=9ou0zVycyL
+#EXTINF:-1 ,RS| ZVEZDA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1364219&extension=ts&play_token=vm6PvzvQX6
+#EXTINF:-1 ,RS| FIGHT NETWORK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110868&extension=ts&play_token=N2B79XMHT2
+#EXTINF:-1 ,RS| SPORT KLUB HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110763&extension=ts&play_token=9pU3iysohR
+#EXTINF:-1 ,RS| SPORT KLUB 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110770&extension=ts&play_token=Qs1hxSq1lE
+#EXTINF:-1 ,RS| SPORT KLUB 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110769&extension=ts&play_token=H2Ggi9JV92
+#EXTINF:-1 ,RS| SPORT KLUB 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110768&extension=ts&play_token=95tigUWxMU
+#EXTINF:-1 ,RS| SPORT KLUB 4 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110767&extension=ts&play_token=hJPTy4OjCh
+#EXTINF:-1 ,RS| SPORT KLUB 5 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110766&extension=ts&play_token=qLQiw73KFC
+#EXTINF:-1 ,RS| SPORT KLUB 6 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110765&extension=ts&play_token=CAIm69aW08
+#EXTINF:-1 ,RS| SPORT KLUB GOLF
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110764&extension=ts&play_token=oIPD5Sp3Rq
+#EXTINF:-1 ,RS| SPORT KLUB FIGHT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=929601&extension=ts&play_token=OqR8w4YFiY
+#EXTINF:-1 ,RS| NOVA SPORT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=229252&extension=ts&play_token=YlI36imlja
+#EXTINF:-1 ,RS| SPORT KLUB 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161937&extension=ts&play_token=SxYdkHYf5b
+#EXTINF:-1 ,RS| SPORT KLUB 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161943&extension=ts&play_token=srHYC01tPq
+#EXTINF:-1 ,RS| SPORT KLUB 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161944&extension=ts&play_token=NuitbnuFb6
+#EXTINF:-1 ,RS| SPORT KLUB 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161938&extension=ts&play_token=P1GHI60lra
+#EXTINF:-1 ,RS| SPORT KLUB 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161945&extension=ts&play_token=voqeQGLdpC
+#EXTINF:-1 ,RS| SPORT KLUB 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161939&extension=ts&play_token=6OcDCrZbNg
+#EXTINF:-1 ,RS| SPORT KLUB 4
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161946&extension=ts&play_token=JRuH20PoMZ
+#EXTINF:-1 ,RS| SPORT KLUB 4
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161940&extension=ts&play_token=30Kwx46fRE
+#EXTINF:-1 ,RS| SPORT KLUB 5
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161947&extension=ts&play_token=6xgpyqFp9C
+#EXTINF:-1 ,RS| SPORT KLUB 6
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161948&extension=ts&play_token=IGz4suCvxC
+#EXTINF:-1 ,RS| SPORT KLUB 6
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161942&extension=ts&play_token=Lp7X8gJnAf
+#EXTINF:-1 ,RS| SPORT KLUB 7
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161949&extension=ts&play_token=ziLJg2jHxV
+#EXTINF:-1 ,RS| SPORT KLUB 8
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161950&extension=ts&play_token=Lu2T25fwnm
+#EXTINF:-1 ,RS| SPORT KLUB 9
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161951&extension=ts&play_token=VAmGCfCiMG
+#EXTINF:-1 ,RS| SPORT KLUB 10
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110762&extension=ts&play_token=uVwXLCAADm
+#EXTINF:-1 ,RS| ARENA ESPORT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1107629&extension=ts&play_token=8YiQ2pj7aQ
+#EXTINF:-1 ,RS| ARENA FIGHT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1107630&extension=ts&play_token=7pOjmR9BnA
+#EXTINF:-1 ,HR| SPORT KLUB
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=845309&extension=ts&play_token=Fm3V8iCdS5
+#EXTINF:-1 ,HR| MAX SPORT 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=967052&extension=ts&play_token=Nxga230FJZ
+#EXTINF:-1 ,HR| MAX SPORT 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1107495&extension=ts&play_token=yko4J5Wa9Z
+#EXTINF:-1 ,HR| MAX SPORT 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=967053&extension=ts&play_token=eII8tCEGA8
+#EXTINF:-1 ,HR| MAX SPORT 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1107494&extension=ts&play_token=4r2FUsw9E6
+#EXTINF:-1 ,HR| ARENA SPORT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110737&extension=ts&play_token=uUFJfotgLO
+#EXTINF:-1 ,HR| ARENA SPORT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110736&extension=ts&play_token=atD3OgcV5J
+#EXTINF:-1 ,HR| ARENA SPORT 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110735&extension=ts&play_token=wmKeskqcVP
+#EXTINF:-1 ,HR| ARENA SPORT 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110734&extension=ts&play_token=zD7Z2X773e
+#EXTINF:-1 ,HR| ARENA SPORT 5 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110733&extension=ts&play_token=O1H27iq0k0
+#EXTINF:-1 ,HR| ARENA SPORT 6
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110732&extension=ts&play_token=Co4WQTslO0
+#EXTINF:-1 ,HR| ARENA SPORT 7 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=726582&extension=ts&play_token=OwZtnXBYJP
+#EXTINF:-1 ,HR| ARENA SPORT 8 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=726583&extension=ts&play_token=2Haj95KTxP
+#EXTINF:-1 ,HR| ARENA SPORT 9 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=726584&extension=ts&play_token=UjtGZNzekh
+#EXTINF:-1 ,HR| ARENA SPORT 10 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=726585&extension=ts&play_token=Uj8sORCQxf
+#EXTINF:-1 ,HR| SPORT KLUB 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110690&extension=ts&play_token=znL41iZeRT
+#EXTINF:-1 ,HR| SPORT KLUB 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110691&extension=ts&play_token=dwfhWlhcBW
+#EXTINF:-1 ,HR| SPORT KLUB 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110688&extension=ts&play_token=pHJiMWkask
+#EXTINF:-1 ,HR| SPORT KLUB 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110689&extension=ts&play_token=xsuNfhOr1t
+#EXTINF:-1 ,HR| SPORT KLUB 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1209950&extension=ts&play_token=iTG3Z9oLWp
+#EXTINF:-1 ,HR| SPORT KLUB 5 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1209953&extension=ts&play_token=MZUEJWtFNN
+#EXTINF:-1 ,HR| SPORT KLUB 6 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1209956&extension=ts&play_token=NVEAdiidYQ
+#EXTINF:-1 ,HR| SPORT KLUB 7 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1209959&extension=ts&play_token=YfNhTrE6Jf
+#EXTINF:-1 ,HR| SPORT KLUB 8 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1209962&extension=ts&play_token=4ifr74zCka
+#EXTINF:-1 ,HR| SPORT KLUB 9 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1209965&extension=ts&play_token=wupbK0xKUC
+#EXTINF:-1 ,HR| SPORT KLUB 10 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1209968&extension=ts&play_token=LaQAVwmvdH
+#EXTINF:-1 ,HR| SPORTSKA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110687&extension=ts&play_token=LFgnGKoh45
+#EXTINF:-1 ,HR| FIGHT WORLD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110726&extension=ts&play_token=FfrrtLPJ5c
+#EXTINF:-1 ,RS| PINK HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110825&extension=ts&play_token=CPXulCVMSm
+#EXTINF:-1 ,RS| PINK RED HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110824&extension=ts&play_token=ACs6mkX6TC
+#EXTINF:-1 ,RS| PINK 3 INFO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110823&extension=ts&play_token=QKIDFhyYGN
+#EXTINF:-1 ,RS| PINK ACTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110822&extension=ts&play_token=m4vGWpaHHZ
+#EXTINF:-1 ,RS| PINK BRAVO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110821&extension=ts&play_token=xeAM8ot2H4
+#EXTINF:-1 ,RS| PINK CLASSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110820&extension=ts&play_token=SgD9YzCLDR
+#EXTINF:-1 ,RS| PINK COMEDY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110819&extension=ts&play_token=YawXCQGXB2
+#EXTINF:-1 ,RS| PINK CRIME & MYSETRY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110818&extension=ts&play_token=uPZ6Kj7lkn
+#EXTINF:-1 ,RS| PINK EXTRA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110817&extension=ts&play_token=gghEwqhqeu
+#EXTINF:-1 ,RS| PINK FAMILY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110816&extension=ts&play_token=2Z2eyP2qXU
+#EXTINF:-1 ,RS| PINK FASHION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110815&extension=ts&play_token=ZFfQnRrPjt
+#EXTINF:-1 ,RS| PINK FILM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110814&extension=ts&play_token=M5ZzgWbogG
+#EXTINF:-1 ,RS| PINK FOLK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110813&extension=ts&play_token=uT02IhvFdf
+#EXTINF:-1 ,RS| PINK FOLK 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110812&extension=ts&play_token=soopdGCthu
+#EXTINF:-1 ,RS| PINK HAHA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110811&extension=ts&play_token=W5coGEZTz6
+#EXTINF:-1 ,RS| PINK HITS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110810&extension=ts&play_token=XFU6QQb3kO
+#EXTINF:-1 ,RS| PINK HITS 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110809&extension=ts&play_token=NSxkD0WJbe
+#EXTINF:-1 ,RS| PINK HORROR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110808&extension=ts&play_token=34VUVF71IU
+#EXTINF:-1 ,RS| PINK KIDS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110807&extension=ts&play_token=Lwn73BkE5z
+#EXTINF:-1 ,RS| PINK KONCERT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110806&extension=ts&play_token=xmXwjn6kaE
+#EXTINF:-1 ,RS| PINK KUVAR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110805&extension=ts&play_token=Ej47jKdR15
+#EXTINF:-1 ,RS| PINK LOL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110804&extension=ts&play_token=dYT3FxbVPX
+#EXTINF:-1 ,RS| PINK MOVIES
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110803&extension=ts&play_token=KgvLAMoT0V
+#EXTINF:-1 ,RS| PINK MUSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110802&extension=ts&play_token=xkLPcpJwT6
+#EXTINF:-1 ,RS| PINK MUSIC 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110801&extension=ts&play_token=v1kB6FWVgS
+#EXTINF:-1 ,RS| PINK PEDIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110800&extension=ts&play_token=srE7qDb6ey
+#EXTINF:-1 ,RS| PINK PLUS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110799&extension=ts&play_token=NvYU3awrcK
+#EXTINF:-1 ,RS| PINK PREMIUM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110798&extension=ts&play_token=CfC51970Zh
+#EXTINF:-1 ,RS| PINK REALITY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110797&extension=ts&play_token=lSRBWMjF4W
+#EXTINF:-1 ,RS| PINK ROLL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110796&extension=ts&play_token=XnEpaDShXo
+#EXTINF:-1 ,RS| PINK ROMANCE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110795&extension=ts&play_token=QGwrNvSnwD
+#EXTINF:-1 ,RS| PINK SHOW
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161989&extension=ts&play_token=ZHiXU8Xd58
+#EXTINF:-1 ,RS| PINK WESTERN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161988&extension=ts&play_token=4GPpbQiovN
+#EXTINF:-1 ,RS| PINK SERIJE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110793&extension=ts&play_token=D0e1y0lGqf
+#EXTINF:-1 ,RS| PINK SOAP
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110792&extension=ts&play_token=7HW9blHBtP
+#EXTINF:-1 ,RS| PINK STYLE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110791&extension=ts&play_token=sNFX3qtYDG
+#EXTINF:-1 ,RS| PINK SUPER KIDS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110790&extension=ts&play_token=QQ0sJU1YFt
+#EXTINF:-1 ,RS| PINK THRILLER
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110789&extension=ts&play_token=or0XLRxakc
+#EXTINF:-1 ,RS| PINK WESTEREN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110788&extension=ts&play_token=sPXwD8hO46
+#EXTINF:-1 ,RS| PINK WORLD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110787&extension=ts&play_token=H5qHXr6Hfp
+#EXTINF:-1 ,RS| PINK WORLD CINEMA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110786&extension=ts&play_token=p6UwW4U0H2
+#EXTINF:-1 ,RS| NARODNA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1651679&extension=ts&play_token=gybYbZ9ylL
+#EXTINF:-1 ,RS| PINK ZABAVA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110785&extension=ts&play_token=iy5qjDbgmA
+#EXTINF:-1 ,BA| PINK BH
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110657&extension=ts&play_token=x1AoBNGi4M
+#EXTINF:-1 ,MNG| PINK M
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161987&extension=ts&play_token=mzD28JnAw4
+#EXTINF:-1 ,RS| ZADRUGA LIVE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=209748&extension=ts&play_token=fgvxHjnpJw
+#EXTINF:-1 ,RS| ZADRUGA 24 H 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=228705&extension=ts&play_token=ISoJsHgVOr
+#EXTINF:-1 ,RS| ZADRUGA 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=209747&extension=ts&play_token=a56tq7w7Sf
+#EXTINF:-1 ,RS| ZADRUGA 24 H 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=228706&extension=ts&play_token=veFap4jy1O
+#EXTINF:-1 ,RS| ZADRUGA 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=209746&extension=ts&play_token=Yvr2A1gKf5
+#EXTINF:-1 ,RS| ZADRUGA 24 H 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=228707&extension=ts&play_token=yLkKdvPyh1
+#EXTINF:-1 ,RS| ZADRUGA 4
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=209745&extension=ts&play_token=GjT9C4CZyP
+#EXTINF:-1 ,HR| KLASIK TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110711&extension=ts&play_token=tpRo9el45F
+#EXTINF:-1 ,RS| HBO HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110849&extension=ts&play_token=1NDUlhUI7u
+#EXTINF:-1 ,RS| HBO 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161966&extension=ts&play_token=zeivcJNxn5
+#EXTINF:-1 ,RS| HBO 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110851&extension=ts&play_token=ca8KALCRPb
+#EXTINF:-1 ,RS| HBO 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161967&extension=ts&play_token=n4JeAnDTPf
+#EXTINF:-1 ,RS| HBO 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110850&extension=ts&play_token=5FA065KIm6
+#EXTINF:-1 ,RS| HBO 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161968&extension=ts&play_token=QNn9ZsiTCr
+#EXTINF:-1 ,RS| AMC HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110917&extension=ts&play_token=5cri5H56VP
+#EXTINF:-1 ,RS| AMC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110918&extension=ts&play_token=MRLHV2lgQ7
+#EXTINF:-1 ,RS| AXN SPIN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110904&extension=ts&play_token=qKuPgbTjtK
+#EXTINF:-1 ,RS| AXN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161983&extension=ts&play_token=X0v9U9QYKu
+#EXTINF:-1 ,RS| CINEMANIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110894&extension=ts&play_token=5raV7WCt6S
+#EXTINF:-1 ,RS| CINEMAX HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110893&extension=ts&play_token=3AZupnrIoq
+#EXTINF:-1 ,RS| CINEMAX 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110892&extension=ts&play_token=hCmwmYOYey
+#EXTINF:-1 ,RS| CINESTAR TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110888&extension=ts&play_token=BVwkiKVudD
+#EXTINF:-1 ,HR| CINESTAR TV 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1565921&extension=ts&play_token=WIORNeJ0bK
+#EXTINF:-1 ,HR| CINESTAR ACTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161965&extension=ts&play_token=iWtDjqN6wG
+#EXTINF:-1 ,RS| CINESTAR ACTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110891&extension=ts&play_token=Fk2YuY0oKz
+#EXTINF:-1 ,RS| CINESTAR COMEDY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161964&extension=ts&play_token=zwZryJsDNC
+#EXTINF:-1 ,RS| CINESTAR FANTASY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161963&extension=ts&play_token=npJ8IGNZwW
+#EXTINF:-1 ,RS| CINESTAR PREMIERE 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110890&extension=ts&play_token=xCWtOVj9S8
+#EXTINF:-1 ,RS| CINESTAR PREMIERE 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110889&extension=ts&play_token=93sYYRiDvA
+#EXTINF:-1 ,RS| FILMBOX EXTRA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161958&extension=ts&play_token=xjTL92IU7p
+#EXTINF:-1 ,RS| FILM KLUB EXTRA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110867&extension=ts&play_token=1dM0NpH1kd
+#EXTINF:-1 ,RS| AXN ADRIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110905&extension=ts&play_token=T8QeO9Msfh
+#EXTINF:-1 ,RS| CINESTAR TV HR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161962&extension=ts&play_token=UAtnt2MZYn
+#EXTINF:-1 ,RS| FILMBOX PREMIUM HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161959&extension=ts&play_token=Mz6nfSXzKi
+#EXTINF:-1 ,RS| STAR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110862&extension=ts&play_token=f7RAzNPvKe
+#EXTINF:-1 ,RS| STAR CRIME HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110860&extension=ts&play_token=r5hKSjS20a
+#EXTINF:-1 ,RS| STAR HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110859&extension=ts&play_token=oFCEjzD3Fd
+#EXTINF:-1 ,RS| STAR CRIME FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161982&extension=ts&play_token=sVZw0ZsmnK
+#EXTINF:-1 ,RS| STAR MOVIES HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110855&extension=ts&play_token=TviqLpjAvZ
+#EXTINF:-1 ,RS| STAR LIFE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110858&extension=ts&play_token=N3mhxVYys2
+#EXTINF:-1 ,RS| STAR LIFE HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110857&extension=ts&play_token=cHNWmDe8oY
+#EXTINF:-1 ,RS| STAR MOVIES
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110856&extension=ts&play_token=SWSgpiQrGx
+#EXTINF:-1 ,RS| CROMAX SELECT HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1683781&extension=ts&play_token=k1Mz9t854i
+#EXTINF:-1 ,RS| GORA SELECT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1683780&extension=ts&play_token=75zv9FXkVX
+#EXTINF:-1 ,RS| NETIP FILM 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1683779&extension=ts&play_token=ao8hPU4ygY
+#EXTINF:-1 ,RS| NETIP FILM 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1683778&extension=ts&play_token=BoY1Y57Yqp
+#EXTINF:-1 ,RS| NETIP CINEMA 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1683777&extension=ts&play_token=j76Kw9KKIn
+#EXTINF:-1 ,RS| NETIP CINEMA 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1683776&extension=ts&play_token=2QSc6RuwD8
+#EXTINF:-1 ,RS| NETIP MOVIES 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1683775&extension=ts&play_token=ey3fv7PTLa
+#EXTINF:-1 ,RS| TV1000
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110756&extension=ts&play_token=tfxp2FScgr
+#EXTINF:-1 ,RS| DIVA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110876&extension=ts&play_token=8LNzfZxl6E
+#EXTINF:-1 ,RS| SCIFI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110794&extension=ts&play_token=XULE65pfIz
+#EXTINF:-1 ,HR| EPIC DRAMA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110727&extension=ts&play_token=h4W7MKXULb
+#EXTINF:-1 ,HR| KINO TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110712&extension=ts&play_token=6MBTawxQMa
+#EXTINF:-1 ,HR| M1 FILM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110708&extension=ts&play_token=4QfxGmbvcV
+#EXTINF:-1 ,HR| M1 GOLD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110707&extension=ts&play_token=8NuOhGayUT
+#EXTINF:-1 ,HR| NET IP SELECT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161969&extension=ts&play_token=kHAqhGcozS
+#EXTINF:-1 ,HR| NET IP SELECT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161970&extension=ts&play_token=HS5SeWtznw
+#EXTINF:-1 ,HR| NET IP SELECT 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161971&extension=ts&play_token=o9AXTYKoY5
+#EXTINF:-1 ,HR| NET IP SELECT 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161972&extension=ts&play_token=f55C1mHb9L
+#EXTINF:-1 ,HR| MAXCRO SELECT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161975&extension=ts&play_token=OmVOvky6qD
+#EXTINF:-1 ,HR| MAXCRO SELECT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161976&extension=ts&play_token=m9gKedve5n
+#EXTINF:-1 ,HR| MAXCRO SELECT 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161978&extension=ts&play_token=LCfmrk6NQI
+#EXTINF:-1 ,HR| MAXCRO SELECT KIDS HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161980&extension=ts&play_token=MpLg3bQbPK
+#EXTINF:-1 ,HR| MAXCRO SELECT KIDS 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161981&extension=ts&play_token=1JPDUYofod
+#EXTINF:-1 ,RS| DM SAT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110875&extension=ts&play_token=nAd0N9Eirb
+#EXTINF:-1 ,RS| GRAND TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110853&extension=ts&play_token=1S6a81sMRf
+#EXTINF:-1 ,RS| GRAND 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110854&extension=ts&play_token=jlcoY4Gcri
+#EXTINF:-1 ,RS| BALKANIKA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110902&extension=ts&play_token=Pr0mOCqSKT
+#EXTINF:-1 ,RS| IDJ MUZIKA 24/7
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110844&extension=ts&play_token=7xQjlvvE0K
+#EXTINF:-1 ,BA| KCN 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162044&extension=ts&play_token=1fKMqKnk1N
+#EXTINF:-1 ,BA| KCN 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162045&extension=ts&play_token=j2jujS2IjF
+#EXTINF:-1 ,RS| KCN 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110843&extension=ts&play_token=WdJBXT8RaO
+#EXTINF:-1 ,RS|  TOP SOUND
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161907&extension=ts&play_token=0RJx08vd10
+#EXTINF:-1 ,BA| TV DUGAPLUS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=363776&extension=ts&play_token=IUdijB05oH
+#EXTINF:-1 ,BA| OTV VALENTINO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110658&extension=ts&play_token=AY0Nra7qSe
+#EXTINF:-1 ,BA| HAYAT FOLK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110671&extension=ts&play_token=d3d3076K1r
+#EXTINF:-1 ,BA| HAYAT MUSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110670&extension=ts&play_token=FAVafIjyFS
+#EXTINF:-1 ,BA| YU PLANET
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162042&extension=ts&play_token=mfhbaZTVIa
+#EXTINF:-1 ,HR| CMC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162009&extension=ts&play_token=i8RQnJwabg
+#EXTINF:-1 ,HR| JUGOTON TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110713&extension=ts&play_token=hDlmIWTkZm
+#EXTINF:-1 ,RS| MTV ADRIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110839&extension=ts&play_token=x5fpWPfNB3
+#EXTINF:-1 ,RS| MTV CLUB
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110838&extension=ts&play_token=IpFofEALmj
+#EXTINF:-1 ,RS| MTV HITS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110837&extension=ts&play_token=2nWKNyrOpP
+#EXTINF:-1 ,HR| MTV MUSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162015&extension=ts&play_token=fPKyk2RFmZ
+#EXTINF:-1 ,HR| MTV ROCK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162016&extension=ts&play_token=2Q7RQSvhHE
+#EXTINF:-1 ,HR| MTV 00S
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162013&extension=ts&play_token=V5DHtRtZsP
+#EXTINF:-1 ,HR| MTV 80S
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162014&extension=ts&play_token=o84YTjcHcR
+#EXTINF:-1 ,HR| TOXIC FOLK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161973&extension=ts&play_token=Xweq2t9Q2D
+#EXTINF:-1 ,HR| TOXIC RAP
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161974&extension=ts&play_token=Nhz1DUg5lW
+#EXTINF:-1 ,RS| PLANETA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161990&extension=ts&play_token=Oi0tSoyZGV
+#EXTINF:-1 ,RS| LOV I RIBOLOV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110841&extension=ts&play_token=QewCwCT5sw
+#EXTINF:-1 ,RS| CRIME & INVESTIGATION NETWORK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110886&extension=ts&play_token=DaJU9x3DYR
+#EXTINF:-1 ,RS| DISCOVERY CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110885&extension=ts&play_token=dndzq82c9i
+#EXTINF:-1 ,RS| DISCOVERY CHANNEL HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110884&extension=ts&play_token=IRJlYYvtxA
+#EXTINF:-1 ,RS| DISCOVERY ID
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110883&extension=ts&play_token=ZDGB61qN4u
+#EXTINF:-1 ,RS| DISCOVERY SCIENCE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161985&extension=ts&play_token=BN9IpwsNHM
+#EXTINF:-1 ,RS| DISCOVERY SC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110882&extension=ts&play_token=TXFpqzqlwc
+#EXTINF:-1 ,RS| DISCOVERY SHOWCASE HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110881&extension=ts&play_token=Bvvf6PHjFP
+#EXTINF:-1 ,RS| DISCOVERY WORLD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110880&extension=ts&play_token=beBjvv3WQz
+#EXTINF:-1 ,RS| DISCOVERY XTRA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110879&extension=ts&play_token=QgqvZSswZK
+#EXTINF:-1 ,RS| 24 KITCHEN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110920&extension=ts&play_token=YpwS76EeYn
+#EXTINF:-1 ,RS| 24KITCHEN HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110919&extension=ts&play_token=tu1zlyibsl
+#EXTINF:-1 ,RS| SYFY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110760&extension=ts&play_token=ijCKhud7pB
+#EXTINF:-1 ,RS| ANIMAL PLANET
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110916&extension=ts&play_token=jNZZYJGMJW
+#EXTINF:-1 ,RS| ANIMAL PLANET HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110915&extension=ts&play_token=pdliHvjkyR
+#EXTINF:-1 ,RS| HGTV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1469080&extension=ts&play_token=DlDKAqP2Mw
+#EXTINF:-1 ,RS| BALKAN TRIP TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1022222&extension=ts&play_token=LU65nB3qfc
+#EXTINF:-1 ,RS| DA VINCI LEARNING
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161986&extension=ts&play_token=S9Wb3tBHng
+#EXTINF:-1 ,RS| DOCU BOX
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110874&extension=ts&play_token=iHV7xhoyg7
+#EXTINF:-1 ,RS| DTX
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110878&extension=ts&play_token=h0fjxQW7Wj
+#EXTINF:-1 ,RS| FOOD NETWORK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110863&extension=ts&play_token=ItkTlxYul3
+#EXTINF:-1 ,RS| HISTORY CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110847&extension=ts&play_token=WxYZv0MM3j
+#EXTINF:-1 ,RS| HISTORY CHANNEL HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110846&extension=ts&play_token=eXzZ39RRYM
+#EXTINF:-1 ,RS| HISTORY 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110848&extension=ts&play_token=3hIaMs9OVB
+#EXTINF:-1 ,RS| HISTORY H2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110845&extension=ts&play_token=lYeFmuZyiY
+#EXTINF:-1 ,RS| NGC HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110833&extension=ts&play_token=xr9ri9uzKE
+#EXTINF:-1 ,RS| NATIONAL GEO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110835&extension=ts&play_token=9psD9ambNi
+#EXTINF:-1 ,RS| NGC WILD HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110832&extension=ts&play_token=4yX4kSfMhe
+#EXTINF:-1 ,RS| NATIONAL GEO WILD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110834&extension=ts&play_token=JIIqJAZwI0
+#EXTINF:-1 ,RS| NATIONAL GEOGRAPHIC FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161984&extension=ts&play_token=WbVxafptUf
+#EXTINF:-1 ,RS| BBC EARTH
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110901&extension=ts&play_token=dhykRX78rq
+#EXTINF:-1 ,RS| BBC EARHT HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110900&extension=ts&play_token=Yea7hIRrlq
+#EXTINF:-1 ,RS| VIASAT EXPLORE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110753&extension=ts&play_token=54eCD6jIT1
+#EXTINF:-1 ,RS| VIASAT HISTORY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110752&extension=ts&play_token=ThkPO6bkBY
+#EXTINF:-1 ,RS| VIASAT HISTORY HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110751&extension=ts&play_token=BMDUTykwxn
+#EXTINF:-1 ,RS| VIASAT NATURE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110750&extension=ts&play_token=XtA2xQTUas
+#EXTINF:-1 ,RS| E! ENTERTAINMENT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110871&extension=ts&play_token=HUYZXEptEk
+#EXTINF:-1 ,RS| CBS REALITY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110896&extension=ts&play_token=6eian7Y26U
+#EXTINF:-1 ,RS| TLC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110759&extension=ts&play_token=VQT96dHqfi
+#EXTINF:-1 ,RS| TRAVEL CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110758&extension=ts&play_token=QrcsLJzBA3
+#EXTINF:-1 ,RS| WOMAN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110749&extension=ts&play_token=CREMiEm5pN
+#EXTINF:-1 ,RS| PAROVI LIVE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161906&extension=ts&play_token=KU4gACNkE5
+#EXTINF:-1 ,RS| MASA I MEDVJED
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=881800&extension=ts&play_token=kEQ9ww6Wzl
+#EXTINF:-1 ,RS| NICK JR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=881790&extension=ts&play_token=SJO2MeIEU2
+#EXTINF:-1 ,RS| NICKELODEON HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=881789&extension=ts&play_token=aLverGXZEn
+#EXTINF:-1 ,RS| IDJ KIDS HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1488870&extension=ts&play_token=ygDOuCeVKK
+#EXTINF:-1 ,RS| NICKTOONS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1589307&extension=ts&play_token=BkRigDF2r9
+#EXTINF:-1 ,HR| NICK JR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110705&extension=ts&play_token=vKJraaC64v
+#EXTINF:-1 ,HR| NICKELODEON
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110704&extension=ts&play_token=WS7wd0kbnb
+#EXTINF:-1 ,HR| NICK JUNIOR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162018&extension=ts&play_token=nlgZzVXA1A
+#EXTINF:-1 ,HR| MASA I MEDVJED
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162017&extension=ts&play_token=lQ2DV2UjZx
+#EXTINF:-1 ,RS| DISNEY CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110877&extension=ts&play_token=tCvnasJ4d6
+#EXTINF:-1 ,RS| CARTOONITO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110898&extension=ts&play_token=HjD0BJ1Z7H
+#EXTINF:-1 ,RS| COMEDY CENTRAL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110887&extension=ts&play_token=gePKbIL5AS
+#EXTINF:-1 ,RS| CARTOON NETWORK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110897&extension=ts&play_token=iHh8xdE3rm
+#EXTINF:-1 ,RS| MINIMAX
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110840&extension=ts&play_token=BNGxBerXTC
+#EXTINF:-1 ,HR| MINI TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110706&extension=ts&play_token=avJjiWsSM0
+#EXTINF:-1 ,HR| TOON KIDS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110701&extension=ts&play_token=NtAtujNJEU
+#EXTINF:-1 ,HR| PIKABOO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110699&extension=ts&play_token=z80WSxgWtD
+#EXTINF:-1 ,HR| THE KIDS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162019&extension=ts&play_token=g4w3JvUm0j
+#EXTINF:-1 ,BA| HAYATOVCI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110667&extension=ts&play_token=AXXaL8DPRe
+#EXTINF:-1 ,HR| BABY TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110731&extension=ts&play_token=YVU9Vlqvkf
+#EXTINF:-1 ,RS| TANJUG
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110866&extension=ts&play_token=2DJMwusB79
+#EXTINF:-1 ,RS| RTL WORLD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161956&extension=ts&play_token=U0wlXeduLo
+#EXTINF:-1 ,RS| DUGA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110872&extension=ts&play_token=3F3TaLtoBj
+#EXTINF:-1 ,RS| RTL LIVING
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110864&extension=ts&play_token=VSdvePbmDR
+#EXTINF:-1 ,RS| RTV ROMA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110842&extension=ts&play_token=F2qIOkqgO4
+#EXTINF:-1 ,RS| PICKBOX
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110826&extension=ts&play_token=5hT2EiNm6l
+#EXTINF:-1 ,RS| SOS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110771&extension=ts&play_token=fA0YZpm8kP
+#EXTINF:-1 ,RS|  HRAM TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161909&extension=ts&play_token=umIRCipqPN
+#EXTINF:-1 ,BA| RTVHB
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=981220&extension=ts&play_token=AUZhiw8yrh
+#EXTINF:-1 ,BA| RTV SANA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=862072&extension=ts&play_token=I53y5MGXD2
+#EXTINF:-1 ,BA| BN MUSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110678&extension=ts&play_token=rhxwFbbOyj
+#EXTINF:-1 ,BA| POSAVINA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110656&extension=ts&play_token=EHZRjXv1KQ
+#EXTINF:-1 ,BA| SEHARA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110651&extension=ts&play_token=i0z51BEpBq
+#EXTINF:-1 ,BA| TV BUGOJNO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110648&extension=ts&play_token=ObcFgWy5OC
+#EXTINF:-1 ,BA| HIT BRCKO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162089&extension=ts&play_token=57O7tFEX5b
+#EXTINF:-1 ,BA| HEMA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162088&extension=ts&play_token=YnbVKRiYKB
+#EXTINF:-1 ,BA| TV KAKANJ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162039&extension=ts&play_token=mRI5Owc7WK
+#EXTINF:-1 ,BA| TV KAKANJ HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110827&extension=ts&play_token=fdA9Gt4FLW
+#EXTINF:-1 ,BA| O KANAL HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162035&extension=ts&play_token=vQHRHC1OAM
+#EXTINF:-1 ,BA| O KANAL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110649&extension=ts&play_token=Jo5D67gAQa
+#EXTINF:-1 ,BA| MEKA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161920&extension=ts&play_token=M9NSVLBKvz
+#EXTINF:-1 ,BA| RTV VOGOSCA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=122508&extension=ts&play_token=tOPIrF8vhT
+#EXTINF:-1 ,BA| DOBRA EXLUSIVE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=122520&extension=ts&play_token=42aTWzESba
+#EXTINF:-1 ,HR| Z1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110685&extension=ts&play_token=WBESB5NHdQ
+#EXTINF:-1 ,HR| CMC MUSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110730&extension=ts&play_token=hAIS2cWpRJ
+#EXTINF:-1 ,HR| LIBERTAS TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1607665&extension=ts&play_token=rdheJ0xYas
+#EXTINF:-1 ,HR| DOKU TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=274150&extension=ts&play_token=ecWyFqYbC5
+#EXTINF:-1 ,HR| GINIX
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110724&extension=ts&play_token=ZMs1JfVRGW
+#EXTINF:-1 ,HR| KREATOR HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110710&extension=ts&play_token=qmxw24pHXg
+#EXTINF:-1 ,HR| LAUDATO TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110709&extension=ts&play_token=WRkrew4c6V
+#EXTINF:-1 ,HR| SLAVONSKA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110692&extension=ts&play_token=83NMxEAOai
+#EXTINF:-1 ,HR| BANOVINA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162031&extension=ts&play_token=5YEpat70oG
+#EXTINF:-1 ,HR| VTV VARAZDIN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162030&extension=ts&play_token=O3X1igrMxr
+#EXTINF:-1 ,HR| MREZA ST
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162025&extension=ts&play_token=fzfTXDdASy
+#EXTINF:-1 ,HR| SBTV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1353218&extension=ts&play_token=9EsiqO55V5
+#EXTINF:-1 ,HR| KANAL RI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162023&extension=ts&play_token=YAruaC4WAd
+#EXTINF:-1 ,HR| NARODNI TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162011&extension=ts&play_token=eDT5fo2kvy
+#EXTINF:-1 ,MK| INTV AVSRALIJA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=777571&extension=ts&play_token=IWLYZ5r7e0
+#EXTINF:-1 ,MK|  NASHA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161921&extension=ts&play_token=6v9ipTi6Af
+#EXTINF:-1 ,MK| TELMA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261801&extension=ts&play_token=F7Sar6I8sA
+#EXTINF:-1 ,MK| FOLK HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261800&extension=ts&play_token=80pCFnVE8B
+#EXTINF:-1 ,MK| SPORTSKA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261799&extension=ts&play_token=HFKeJpftiV
+#EXTINF:-1 ,MK| TV PLUS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261795&extension=ts&play_token=FfFOtwjPQr
+#EXTINF:-1 ,MK| MRT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261788&extension=ts&play_token=hX6u7sgoJS
+#EXTINF:-1 ,MK| MAKEDONSKA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261781&extension=ts&play_token=RUQGnQOdRv
+#EXTINF:-1 ,MK| FOLK KLUB TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=261766&extension=ts&play_token=OlxbpXyDAV
+#EXTINF:-1 ,MK| FFM MK FOOTBALL 1 [LIVE-EVENT]
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=698123&extension=ts&play_token=3x9saH2vVJ
+#EXTINF:-1 ,MK| FFM MK FOOTBALL 2 [LIVE-EVENT]
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=698122&extension=ts&play_token=C2Ko57RD8x
+#EXTINF:-1 ,MK| FFM MK FOOTBALL 3 [LIVE-EVENT]
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=698121&extension=ts&play_token=Eu4lLjJKvn
+#EXTINF:-1 ,MK| FFM MK FOOTBALL 4 [LIVE-EVENT]
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=698120&extension=ts&play_token=3cONv4nenz
+#EXTINF:-1 ,MK| FFM MK FOOTBALL 5 [LIVE-EVENT]
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=698119&extension=ts&play_token=WCsRdsyBiU
+#EXTINF:-1 ,MK| FFM MK FOOTBALL 5 [LIVE-EVENT]
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=698118&extension=ts&play_token=cQvNr5qw3L
+#EXTINF:-1 ,##### EX YU RADIO #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=836582&extension=ts&play_token=5L5lw014o6
+#EXTINF:-1 ,SI| SPORT TV 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161952&extension=ts&play_token=XKHVFp7jLe
+#EXTINF:-1 ,SI| SPORT TV 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110925&extension=ts&play_token=2nmHfNkKuB
+#EXTINF:-1 ,SI| SPORT TV 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161953&extension=ts&play_token=B5HUeOOIOo
+#EXTINF:-1 ,SI| SPORT TV 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110924&extension=ts&play_token=e5PrbgJSD5
+#EXTINF:-1 ,SI| SPORT TV 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=161954&extension=ts&play_token=4ipvPz445W
+#EXTINF:-1 ,SI| SPORT TV 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110923&extension=ts&play_token=Deqsq02H2b
+#EXTINF:-1 ,SI| ARENA SPORT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1553352&extension=ts&play_token=OatJlOS2fi
+#EXTINF:-1 ,SI| ARENA SPORT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1553353&extension=ts&play_token=SxuD4VhlqO
+#EXTINF:-1 ,SI| SPORT KLUB 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1189093&extension=ts&play_token=hehRh0hWuZ
+#EXTINF:-1 ,SI| SPORT KLUB 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1189094&extension=ts&play_token=1vneI3byRb
+#EXTINF:-1 ,SI| SPORT KLUB 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1189095&extension=ts&play_token=v2tRCOdjtL
+#EXTINF:-1 ,SI| SPORT KLUB 4
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1189096&extension=ts&play_token=DXMBG3FZCP
+#EXTINF:-1 ,BK| MOJA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1163794&extension=ts&play_token=OtZdxFHlyc
+#EXTINF:-1 ,BA| ARENA SPORT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=908230&extension=ts&play_token=gaisaWm79V
+#EXTINF:-1 ,BA| ARENA SPORT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1311321&extension=ts&play_token=ZpPjRXnGFj
+#EXTINF:-1 ,BA| ARENA SPORT 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1311320&extension=ts&play_token=RZqB04sZv8
+#EXTINF:-1 ,BA| ARENA SPORT 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1311319&extension=ts&play_token=uuHwIJOrZx
+#EXTINF:-1 ,BA| ARENA SPORT PREMIUM 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1311187&extension=ts&play_token=e6csznDzV2
+#EXTINF:-1 ,BA| ARENA SPORT PREMIUM 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1311186&extension=ts&play_token=TzAvbYmWq0
+#EXTINF:-1 ,BA| ARENA SPORT PREMIUM 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1311185&extension=ts&play_token=8CnD2oM1O0
+#EXTINF:-1 ,BA| ARENA SPORT 5 PREMIER LIGA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110681&extension=ts&play_token=xonC8Xe9ar
+#EXTINF:-1 ,BA| ARENA FIGHT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=908229&extension=ts&play_token=fTFnffc2VV
+#EXTINF:-1 ,##### KIDS #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438242&extension=ts&play_token=kgOmCbg6UJ
+#EXTINF:-1 ,EXYU| LOONEY TUNES
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438244&extension=ts&play_token=riVqPk93fX
+#EXTINF:-1 ,EXYU| PAW PATROL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438245&extension=ts&play_token=YUgIp35Vvm
+#EXTINF:-1 ,EXYU| PEPPA PIG
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438246&extension=ts&play_token=xe3fIgqTUu
+#EXTINF:-1 ,EXYU| TURTLES
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438247&extension=ts&play_token=XjlUvEtIzx
+#EXTINF:-1 ,EXYU| HEY KIDS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1459140&extension=ts&play_token=ebiDZBugHX
+#EXTINF:-1 ,EXYU| MR. BEAN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1459139&extension=ts&play_token=5C17EPEgdF
+#EXTINF:-1 ,EXYU| STRUMFOV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1459138&extension=ts&play_token=87iOLuNBaa
+#EXTINF:-1 ,EXYU| TOM AND JERRY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1459137&extension=ts&play_token=w0HqcyYwj9
+#EXTINF:-1 ,EXYU| TOM AND JERRY SHOW
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1459136&extension=ts&play_token=6g6vEDKLHk
+#EXTINF:-1 ,EXYU| PCELICA MAJA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1569808&extension=ts&play_token=v3Aoo0lNfi
+#EXTINF:-1 ,EXYU| MICKEY MOUSE CLUBHOUSE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1569807&extension=ts&play_token=x0DHJnA1Eg
+#EXTINF:-1 ,EXYU| FAST AND FURIOUS SPY RACERS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1569806&extension=ts&play_token=1UltrkmG0r
+#EXTINF:-1 ,EXYU| BLUEY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1569805&extension=ts&play_token=ff2ggYBZyh
+#EXTINF:-1 ,##### FILMS #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438240&extension=ts&play_token=3mKdPs6Mmj
+#EXTINF:-1 ,EXYU| A NIGHTMARE ON ELM STREET
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438263&extension=ts&play_token=OrkWOjKX0D
+#EXTINF:-1 ,EXYU| BAD BOYS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438248&extension=ts&play_token=Yi0TEsltSj
+#EXTINF:-1 ,EXYU| BEVERLY HILLS COP
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438249&extension=ts&play_token=3hUniQaUii
+#EXTINF:-1 ,EXYU| DC COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438250&extension=ts&play_token=DKl4MIbe2v
+#EXTINF:-1 ,EXYU| DIE HARD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438251&extension=ts&play_token=PmcdtGGP5t
+#EXTINF:-1 ,EXYU| FINAL DESTINATION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438253&extension=ts&play_token=SqztTbZh9o
+#EXTINF:-1 ,EXYU| HAJDE DA SE VOLIMO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438254&extension=ts&play_token=xnX2zBFdW8
+#EXTINF:-1 ,EXYU| HARRY POTTER
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438255&extension=ts&play_token=9jXFrjAywf
+#EXTINF:-1 ,EXYU| IP MAN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438256&extension=ts&play_token=1sHon0Qmo7
+#EXTINF:-1 ,EXYU| JAMES BOND
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438257&extension=ts&play_token=6OjYxdVTKS
+#EXTINF:-1 ,EXYU| JURASSIC PARK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438258&extension=ts&play_token=buwBMRtfia
+#EXTINF:-1 ,EXYU| LUDE GODINE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438259&extension=ts&play_token=oufQxiHo56
+#EXTINF:-1 ,EXYU| MARVEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438260&extension=ts&play_token=ldjUcvo46A
+#EXTINF:-1 ,EXYU| MATRIX
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438261&extension=ts&play_token=7QRwRLhAPo
+#EXTINF:-1 ,EXYU| MISSION IMPOSSIBLE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438262&extension=ts&play_token=hW6rWy9wvt
+#EXTINF:-1 ,EXYU| PIRATES OF THE CARIBBEAN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438264&extension=ts&play_token=ta5aIIUjKb
+#EXTINF:-1 ,EXYU| POLICE ACADEMY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438265&extension=ts&play_token=FCCPLXBZPJ
+#EXTINF:-1 ,EXYU| RAMBO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438266&extension=ts&play_token=pCCaqVl1sk
+#EXTINF:-1 ,EXYU| ROCKY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438267&extension=ts&play_token=QFepgaZOz5
+#EXTINF:-1 ,EXYU| SAW
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438268&extension=ts&play_token=u12tu54kDm
+#EXTINF:-1 ,EXYU| TERMINATOR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438269&extension=ts&play_token=8TkajuC5S5
+#EXTINF:-1 ,EXYU| TESNA KOZA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438270&extension=ts&play_token=tvPw7JrvAO
+#EXTINF:-1 ,EXYU| THE FAST AND FURIOUS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438252&extension=ts&play_token=L8jO0al7fB
+#EXTINF:-1 ,EXYU| THE GODFATHER
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438271&extension=ts&play_token=RH88seT9hg
+#EXTINF:-1 ,EXYU| UNDISPUTED
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1569804&extension=ts&play_token=4BPgqhceIM
+#EXTINF:-1 ,EXYU| STAR WARS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1569803&extension=ts&play_token=IdIveY2kk9
+#EXTINF:-1 ,EXYU| STAR TREK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1569802&extension=ts&play_token=SG5D4rIJRo
+#EXTINF:-1 ,EXYU| RISE OF THE FOOTSOLDIER
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1569801&extension=ts&play_token=DZKeLSXOsU
+#EXTINF:-1 ,EXYU| AFTER
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1569800&extension=ts&play_token=WwqcDAu4OB
+#EXTINF:-1 ,##### SERIES #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438243&extension=ts&play_token=7PB6LGhVxd
+#EXTINF:-1 ,EXYU| VIKINGS VALHALLA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438283&extension=ts&play_token=G7IFBlFKqV
+#EXTINF:-1 ,EXYU| VIKINGS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438282&extension=ts&play_token=mU69RSMiFU
+#EXTINF:-1 ,EXYU| THE BLACKLIST
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1569798&extension=ts&play_token=070tZerzdt
+#EXTINF:-1 ,EXYU| SRECNI LJUDI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1569797&extension=ts&play_token=YUFnoAGCHr
+#EXTINF:-1 ,EXYU| SELO GORI A BABA SE CESLJA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438281&extension=ts&play_token=VNzodqJoxv
+#EXTINF:-1 ,EXYU| LUD ZBUNJEN NORMALAN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438280&extension=ts&play_token=QvKlDOJFej
+#EXTINF:-1 ,EXYU| JUZIN VETAR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438279&extension=ts&play_token=ByQPublaKr
+#EXTINF:-1 ,EXYU| GAME OF THRONES
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438278&extension=ts&play_token=BgrqmKM2yG
+#EXTINF:-1 ,EXYU| FRIENDS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438277&extension=ts&play_token=KtXlQlTIGG
+#EXTINF:-1 ,EXYU| DOBRO JUTRO KOMSIJA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438276&extension=ts&play_token=Hy49AJFIkL
+#EXTINF:-1 ,EXYU| BOLJI ZIVOT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438275&extension=ts&play_token=VnYSKM80GP
+#EXTINF:-1 ,EXYU| BELA LADA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438274&extension=ts&play_token=qU2GEp0vBz
+#EXTINF:-1 ,##### MUSIC #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438241&extension=ts&play_token=WhRUzNZo32
+#EXTINF:-1 ,EXYU| UZIVOTEKA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438273&extension=ts&play_token=CWmLcy1WlZ
+#EXTINF:-1 ,EXYU| KAFANSKO VECE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438272&extension=ts&play_token=42VBCKaPzh
+#EXTINF:-1 ,EXYU| KAFANSKO VECE 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1569799&extension=ts&play_token=K9nseqbedf
+#EXTINF:-1 ,EXYU| BALKAN MUSIC FOLK 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1459135&extension=ts&play_token=t2jz2tce8n
+#EXTINF:-1 ,EXYU| BALKAN MUSIC FOLK 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1459134&extension=ts&play_token=XSeokXLhuw
+#EXTINF:-1 ,EXYU| BALKAN MUSIC FOLK 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1459133&extension=ts&play_token=GEHyfhE8DU
+#EXTINF:-1 ,EXYU| BALKAN MUSIC MIX 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1459132&extension=ts&play_token=6IiWgyq99X
+#EXTINF:-1 ,EXYU| BALKAN MUSIC MIX 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1459131&extension=ts&play_token=nbOSA8uvSx
+#EXTINF:-1 ,EXYU| BALKAN MUSIC MIX 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1459130&extension=ts&play_token=y1eMFdsUh9
+#EXTINF:-1 ,EXYU| BALKAN MUSIC POP ROCK 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438581&extension=ts&play_token=VpHnysoYLg
+#EXTINF:-1 ,EXYU| BALKAN MUSIC POP ROCK 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438582&extension=ts&play_token=bC89lh1gfY
+#EXTINF:-1 ,EXYU| BALKAN MUSIC POP ROCK 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1438583&extension=ts&play_token=eQLmKRlOrN
+#EXTINF:-1 ,BS| AKCIJA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599473&extension=ts&play_token=LmfIhrq8DW
+#EXTINF:-1 ,BS| CRTANI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599477&extension=ts&play_token=YKsf8eHYH9
+#EXTINF:-1 ,BS| DRAMA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599478&extension=ts&play_token=Esrf81EVmI
+#EXTINF:-1 ,BS| HOROR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599480&extension=ts&play_token=cMSijwkqGz
+#EXTINF:-1 ,BS| KOMEDIJA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599483&extension=ts&play_token=v8eSJSUtJ2
+#EXTINF:-1 ,BS| SCI-FI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599487&extension=ts&play_token=Fhn9ceMi41
+#EXTINF:-1 ,BS| TRILER
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599492&extension=ts&play_token=XEOHyZTMvm
+#EXTINF:-1 ,BS| WESTERN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599493&extension=ts&play_token=hmFSJT9e1D
+#EXTINF:-1 ,BS| ANGELINA JOLIE COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599474&extension=ts&play_token=KF1Pr92Uq7
+#EXTINF:-1 ,BS| ARNOLD SCHWARZENEGGER COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599475&extension=ts&play_token=c8HZ48d4AN
+#EXTINF:-1 ,BS| BRUCE WILLIS COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599476&extension=ts&play_token=HyZNq1fipX
+#EXTINF:-1 ,BS| DWAYNE THE ROCK JOHNSON COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599479&extension=ts&play_token=NK3Odlqd0R
+#EXTINF:-1 ,BS| J LO COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599481&extension=ts&play_token=W1EWo01o2e
+#EXTINF:-1 ,BS| JASON STATHAM COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599482&extension=ts&play_token=AbZ5Zr8Oxl
+#EXTINF:-1 ,BS| MEL GIBSON COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599484&extension=ts&play_token=KAUcfxMk7y
+#EXTINF:-1 ,BS| NICOLAS CAGE COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599485&extension=ts&play_token=L76maTlvTg
+#EXTINF:-1 ,BS| PAUL WALKER COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599486&extension=ts&play_token=RSaeOdNK9t
+#EXTINF:-1 ,BS| STEVEN SEAGAL COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599488&extension=ts&play_token=KgRzqMFFqW
+#EXTINF:-1 ,BS| SYLVESTER STALLONE COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599489&extension=ts&play_token=qlKlI2Vkmc
+#EXTINF:-1 ,BS| TOM CRUISE COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599490&extension=ts&play_token=kynGt3CCtv
+#EXTINF:-1 ,BS| TOM HANKS COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599491&extension=ts&play_token=6HsY9T7OyD
+#EXTINF:-1 ,BS| WILL SMITH COLLECTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1599494&extension=ts&play_token=1lk4Mnix5S
