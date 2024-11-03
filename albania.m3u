@@ -1,194 +1,844 @@
-#EXTINF:-1 ,ALB| ALBANIA ALB|
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222739&extension=ts&play_token=9qB4G5qDSM&sn2=
-#EXTINF:-1 ,ALB| Gjeneralistë Shqiptare ALB|
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222738&extension=ts&play_token=OF826Voe0N&sn2=
-#EXTINF:-1 ,ALB| RTK 1 FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222737&extension=ts&play_token=64cuPr8VYv&sn2=
-#EXTINF:-1 ,ALB| RTK 1 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222736&extension=ts&play_token=3SQ8YCpI0S&sn2=
-#EXTINF:-1 ,ALB| RTK 1 SD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222735&extension=ts&play_token=8taxKhmzlh&sn2=
-#EXTINF:-1 ,ALB| RTK 2 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222734&extension=ts&play_token=b7aKimlGds&sn2=
-#EXTINF:-1 ,ALB| RTK 3 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222733&extension=ts&play_token=yeSBbs32Yi&sn2=
-#EXTINF:-1 ,ALB| RTK 4 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222732&extension=ts&play_token=zbF9AjTG3S&sn2=
-#EXTINF:-1 ,ALB| RTSH 1 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222731&extension=ts&play_token=3ijtp4Qsb7&sn2=
-#EXTINF:-1 ,ALB| RTSH 2 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222730&extension=ts&play_token=RGa2Dr6ybF&sn2=
-#EXTINF:-1 ,ALB| RTSH 3 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222729&extension=ts&play_token=z61QIipv4g&sn2=
-#EXTINF:-1 ,ALB| RTSH FILM
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222728&extension=ts&play_token=kLRkhJWAs5&sn2=
-#EXTINF:-1 ,ALB| RTSH PLUS
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222726&extension=ts&play_token=iPi6wjXbBo&sn2=
-#EXTINF:-1 ,ALB| RTSH 24
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222725&extension=ts&play_token=DURS3FUsjo&sn2=
-#EXTINF:-1 ,ALB| KTV FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222724&extension=ts&play_token=vGS8XIze2T&sn2=
-#EXTINF:-1 ,ALB| KTV HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222723&extension=ts&play_token=qTF8f0zr8w&sn2=
-#EXTINF:-1 ,ALB| RTV 21 FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222722&extension=ts&play_token=51mUsKavLs&sn2=
-#EXTINF:-1 ,ALB| RTV 21 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222721&extension=ts&play_token=NtJbQEsMnX&sn2=
-#EXTINF:-1 ,ALB| RTV 21 Popullore
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222720&extension=ts&play_token=asxGfqz9NZ&sn2=
-#EXTINF:-1 ,ALB| KLAN KOSOVA FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222719&extension=ts&play_token=6dyePmofLl&sn2=
-#EXTINF:-1 ,ALB| KLAN KOSOVA HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222718&extension=ts&play_token=ZzL9ibUehs&sn2=
-#EXTINF:-1 ,ALB| ALSAT HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222717&extension=ts&play_token=u0Jr5czMkV&sn2=
-#EXTINF:-1 ,ALB| TOP CHANNEL FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222715&extension=ts&play_token=h0YXn3oUqQ&sn2=
+#EXTINF:-1 ,##### ALB GENERAL #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=196715&extension=ts&play_token=ARjVwcWqSr
+#EXTINF:-1 ,ALB| BIG BROTHER VIP KOSOVA 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116240&extension=ts&play_token=4MYRtyyeVt
+#EXTINF:-1 ,ALB| BIG BROTHER VIP KOSOVA 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116115&extension=ts&play_token=E7wJWZY2kx
+#EXTINF:-1 ,ALB| TOP CHANNEL 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116369&extension=ts&play_token=uwHr2eRJtb
 #EXTINF:-1 ,ALB| TOP CHANNEL HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222714&extension=ts&play_token=ehaETYLR0E&sn2=
-#EXTINF:-1 ,ALB| KLAN TV FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222713&extension=ts&play_token=iPxq9tW4FB&sn2=
-#EXTINF:-1 ,ALB| KLAN TV HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222712&extension=ts&play_token=E2xi43Y6hq&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116177&extension=ts&play_token=1WpTcaYqUF
+#EXTINF:-1 ,ALB| TV KLAN 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116370&extension=ts&play_token=YMfK5uxGap
+#EXTINF:-1 ,ALB| TV KLAN HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116108&extension=ts&play_token=OwoVWbujpz
 #EXTINF:-1 ,ALB| KLAN PLUS HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222711&extension=ts&play_token=bc5oll853j&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116107&extension=ts&play_token=9aC6ydvylz
 #EXTINF:-1 ,ALB| KLAN PLUS
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222710&extension=ts&play_token=4dz4PVel8W&sn2=
-#EXTINF:-1 ,ALB| T7 FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222707&extension=ts&play_token=1zLxMHombJ&sn2=
-#EXTINF:-1 ,ALB| VIZION PLUS FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222704&extension=ts&play_token=kVT1GXSYs1&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116106&extension=ts&play_token=316ZOPEG0I
+#EXTINF:-1 ,ALB| VIZION PLUS 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116208&extension=ts&play_token=up2stvFnfo
 #EXTINF:-1 ,ALB| VIZION PLUS HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222703&extension=ts&play_token=MLx8sSvvh2&sn2=
-#EXTINF:-1 ,ALB| TV KOHA HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222702&extension=ts&play_token=lsqnwbB6mA&sn2=
-#EXTINF:-1 ,ALB| ALBUK FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222701&extension=ts&play_token=pcEnm7Lv6U&sn2=
-#EXTINF:-1 ,ALB| RTSH KORCA
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222700&extension=ts&play_token=Ja4Y8esFol&sn2=
-#EXTINF:-1 ,ALB| SYRI TV HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222698&extension=ts&play_token=WH775wZvTw&sn2=
-#EXTINF:-1 ,ALB| RTV 21 MIX FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222696&extension=ts&play_token=8lBpXTU0oW&sn2=
-#EXTINF:-1 ,ALB| Lajmet ALB|
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222691&extension=ts&play_token=GWEXGWWkbG&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116209&extension=ts&play_token=wemB9ITFf2
+#EXTINF:-1 ,ALB| RTSH 24
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1008369&extension=ts&play_token=7YvovFPvIb
+#EXTINF:-1 ,ALB| RTSH SAT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116126&extension=ts&play_token=X8iz3nACQG
+#EXTINF:-1 ,ALB| RTSH 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116125&extension=ts&play_token=bZHPWWMVAt
+#EXTINF:-1 ,ALB| RTSH 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116127&extension=ts&play_token=Zz84nPf6wf
+#EXTINF:-1 ,ALB| RTSH 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116129&extension=ts&play_token=USHMfaiFBQ
+#EXTINF:-1 ,ALB| RTSH PLUS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116134&extension=ts&play_token=aLgwDHmAm8
+#EXTINF:-1 ,ALB| RTSH SPORT 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116136&extension=ts&play_token=NDijnB0r8w
+#EXTINF:-1 ,ALB| RTSH SHQIP
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116135&extension=ts&play_token=15xPiBddjg
+#EXTINF:-1 ,##### ALB NEWS #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=196719&extension=ts&play_token=LYBc1lLBPy
+#EXTINF:-1 ,ALB| EURONEWS ALBANIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=852327&extension=ts&play_token=1xDWD2WDnb
+#EXTINF:-1 ,ALB| KLAN NEWS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116048&extension=ts&play_token=nxaZIUDHW2
 #EXTINF:-1 ,ALB| TOP NEWS
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222690&extension=ts&play_token=kU7266CrGw&sn2=
-#EXTINF:-1 ,ALB| REPORT TV HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222687&extension=ts&play_token=cP12Yaq6z8&sn2=
-#EXTINF:-1 ,ALB| FAX NEWS HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222684&extension=ts&play_token=aheymdb9dQ&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116179&extension=ts&play_token=t4vHZkm7eB
 #EXTINF:-1 ,ALB| KANALI 7
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222683&extension=ts&play_token=pM4JVzL0ed&sn2=
-#EXTINF:-1 ,ALB| Filma ALB|
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222681&extension=ts&play_token=eiSL1Ehxu9&sn2=
-#EXTINF:-1 ,ALB| TRING ACTION HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222678&extension=ts&play_token=xhCA9NlyfN&sn2=
-#EXTINF:-1 ,ALB| TRING SUPER FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222677&extension=ts&play_token=X66y3vO0S7&sn2=
-#EXTINF:-1 ,ALB| TRING COMEDY
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222676&extension=ts&play_token=PDRF0fB41K&sn2=
-#EXTINF:-1 ,ALB| TRING LIFE
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222674&extension=ts&play_token=DeKThTQTnb&sn2=
-#EXTINF:-1 ,ALB| TRING 3 PLUS HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222673&extension=ts&play_token=C4sThXKNQ4&sn2=
-#EXTINF:-1 ,ALB| TRING SMILE
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222668&extension=ts&play_token=q1ntdLRQaI&sn2=
-#EXTINF:-1 ,ALB| FILM Max HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222666&extension=ts&play_token=JBAV7GwRzo&sn2=
-#EXTINF:-1 ,ALB| FILM AKSION HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222665&extension=ts&play_token=awpjwReqyC&sn2=
-#EXTINF:-1 ,ALB| FILM THRILLER
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222663&extension=ts&play_token=Mzr6LGUKfe&sn2=
-#EXTINF:-1 ,ALB| FILM HITS HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222662&extension=ts&play_token=vrHX71ucp6&sn2=
-#EXTINF:-1 ,ALB| FILM DRAME
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222660&extension=ts&play_token=kfiWaCiifd&sn2=
-#EXTINF:-1 ,ALB| EURO FILM
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222658&extension=ts&play_token=49lgLQomIH&sn2=
-#EXTINF:-1 ,ALB| Dokumentar ALB|
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222627&extension=ts&play_token=dgZ9sRShVH&sn2=
-#EXTINF:-1 ,ALB| TRAVEL CHANNEL HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222622&extension=ts&play_token=j3GznDxilD&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116101&extension=ts&play_token=cryyh46MpI
+#EXTINF:-1 ,ALB| ORA NEWS 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116326&extension=ts&play_token=LrDVxk3tTt
+#EXTINF:-1 ,ALB| ORA NEWS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116116&extension=ts&play_token=VblO6x1uEp
+#EXTINF:-1 ,ALB| NEWS 24
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116114&extension=ts&play_token=X0uN7WV9Y5
+#EXTINF:-1 ,ALB| FAX NEWS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116207&extension=ts&play_token=im9Sq5TJ2u
+#EXTINF:-1 ,ALB| ABC NEWS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=853018&extension=ts&play_token=c8ohp47ODd
+#EXTINF:-1 ,ALB| REPORT TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116119&extension=ts&play_token=ngivfqDEOn
+#EXTINF:-1 ,ALB| A2 CNN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116295&extension=ts&play_token=t6QKw6yiD6
+#EXTINF:-1 ,ALB| SYRI TELEVIZION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=920560&extension=ts&play_token=iJhws5FGnw
+#EXTINF:-1 ,ALB| RTSH GJIROKASTRA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116132&extension=ts&play_token=E3wunKaUqt
+#EXTINF:-1 ,ALB| SCAN TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1082693&extension=ts&play_token=N5bOWl6IXi
+#EXTINF:-1 ,##### ALB DOCUMENTARIES #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=196720&extension=ts&play_token=n3vanX8yxG
 #EXTINF:-1 ,ALB| EXPLORER HISTORI
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222618&extension=ts&play_token=xU1lR1M639&sn2=
-#EXTINF:-1 ,ALB| TRING WORLD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222615&extension=ts&play_token=P6nvLTwAYh&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116072&extension=ts&play_token=AZs9nOCW3q
+#EXTINF:-1 ,ALB| EXPLORER NATYRA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116073&extension=ts&play_token=KbCyOgSkuq
+#EXTINF:-1 ,ALB| EXPLORER SHKENCE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116074&extension=ts&play_token=C8vY8DKPLl
 #EXTINF:-1 ,ALB| TRING PLANET
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222614&extension=ts&play_token=XOW0Vzbymw&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116188&extension=ts&play_token=2rO59rl1oM
+#EXTINF:-1 ,ALB| TRING WORLD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116193&extension=ts&play_token=Kovww5PNtY
 #EXTINF:-1 ,ALB| TRING HISTORY
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222613&extension=ts&play_token=lSdyErXNcb&sn2=
-#EXTINF:-1 ,ALB| Fëmijë ALB|
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222612&extension=ts&play_token=DCwh5a19MH&sn2=
-#EXTINF:-1 ,ALB| BANG BANG
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222611&extension=ts&play_token=6GEd11p1qo&sn2=
-#EXTINF:-1 ,ALB| RTSH FEMIJE
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222608&extension=ts&play_token=UOcnthwvuH&sn2=
-#EXTINF:-1 ,ALB| TRING KIDS
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222607&extension=ts&play_token=e95GRSJzg3&sn2=
-#EXTINF:-1 ,ALB| TRING TRING
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222606&extension=ts&play_token=pbL9DBazZl&sn2=
-#EXTINF:-1 ,ALB| TIP TV
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222605&extension=ts&play_token=T5PQKrpmLA&sn2=
-#EXTINF:-1 ,ALB| RTV 21 JUNIOR HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222603&extension=ts&play_token=nmfPG4gF30&sn2=
-#EXTINF:-1 ,ALB| Muzikë ALB|
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222600&extension=ts&play_token=SHSWakZtzM&sn2=
-#EXTINF:-1 ,ALB| MY MUSIC
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222598&extension=ts&play_token=5dLaXSI4sd&sn2=
-#EXTINF:-1 ,ALB| MTV KOSOVA
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222597&extension=ts&play_token=ChYCL7RDup&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116184&extension=ts&play_token=f2ehNwwxdL
+#EXTINF:-1 ,ALB| LIVING 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116111&extension=ts&play_token=3SqWTvVetI
+#EXTINF:-1 ,ALB| HISTORY CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116306&extension=ts&play_token=YRrKVEfi4x
+#EXTINF:-1 ,ALB| NATIONAL GEOGRAPHIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116113&extension=ts&play_token=2xrsu1Nt7w
+#EXTINF:-1 ,ALB| NATIONAL GEOGRAPHIC WILD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116325&extension=ts&play_token=iBA5Znobaz
+#EXTINF:-1 ,ALB| DISCOVERY CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116062&extension=ts&play_token=RBkK05GGBd
+#EXTINF:-1 ,ALB| DISCOVERY SCIENCE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116063&extension=ts&play_token=fwD6VgAnMZ
+#EXTINF:-1 ,ALB| INVESTIGATION DISCOVERY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116065&extension=ts&play_token=LvjjobghBt
+#EXTINF:-1 ,ALB| DISCOVERY TURBO EXTRA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116064&extension=ts&play_token=DU67IdFMD9
+#EXTINF:-1 ,##### ALB MOVIES & SERIES #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=196718&extension=ts&play_token=oyGMe9HHCD
+#EXTINF:-1 ,ALB| NETFLIX ACTION FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539532&extension=ts&play_token=3qTdo2Nvgu
+#EXTINF:-1 ,ALB| NETFLIX THRILLER FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539536&extension=ts&play_token=PwBhDple2w
+#EXTINF:-1 ,ALB| NETFLEX ROMANCE FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539535&extension=ts&play_token=tRAcUXSOQP
+#EXTINF:-1 ,ALB| NETFLIX COMEDY FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539533&extension=ts&play_token=qSunQCymFw
+#EXTINF:-1 ,ALB| ALBANIA PRIME FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539534&extension=ts&play_token=6xAgwJDtkE
+#EXTINF:-1 ,ALB| ALBANIA DISNY FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539531&extension=ts&play_token=W1vTb02rGI
+#EXTINF:-1 ,ALB| PLAYME ACTION 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539537&extension=ts&play_token=x0dCC0AAfk
+#EXTINF:-1 ,ALB| PLAYME ACTION 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539538&extension=ts&play_token=cjjyzQi7um
+#EXTINF:-1 ,ALB| PLAYME ACTION 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539539&extension=ts&play_token=qOGKV2IjY0
+#EXTINF:-1 ,ALB| PLAYME ACTION 4 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539540&extension=ts&play_token=TFBLay6Kaq
+#EXTINF:-1 ,ALB| PLAYME THRILLER 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539560&extension=ts&play_token=aUumCNGbTO
+#EXTINF:-1 ,ALB| PLAYME THRILLER 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539561&extension=ts&play_token=5yz5numwnx
+#EXTINF:-1 ,ALB| PLAYME THRILLER 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539562&extension=ts&play_token=mwp42JEDVE
+#EXTINF:-1 ,ALB| PLAYME COMEDY 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539541&extension=ts&play_token=qA9aFjW8u7
+#EXTINF:-1 ,ALB| PLAYME COMEDY 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539542&extension=ts&play_token=v4owYxqwgH
+#EXTINF:-1 ,ALB| PLAYME COMEDY 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539543&extension=ts&play_token=Ef8XR25A6f
+#EXTINF:-1 ,ALB| PLAYME SCIENCE FICTION 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539558&extension=ts&play_token=xlWrW6t9c1
+#EXTINF:-1 ,ALB| PLAYME SCIENCE FICTION 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539559&extension=ts&play_token=rTadtR1jyo
+#EXTINF:-1 ,ALB| PLAYME ROMANCE 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539556&extension=ts&play_token=eAAbCxO7Ml
+#EXTINF:-1 ,ALB| PLAYME ROMANCE 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539557&extension=ts&play_token=CaX9vNMfVn
+#EXTINF:-1 ,ALB| PLAYME DRAMA 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539546&extension=ts&play_token=lcjzlTFAEF
+#EXTINF:-1 ,ALB| PLAYME DRAMA 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539547&extension=ts&play_token=MzeZFJ8Qvq
+#EXTINF:-1 ,ALB| PLAYME DRAMA 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539548&extension=ts&play_token=gNRdSwZb4Q
+#EXTINF:-1 ,ALB| PLAYME HORROR 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539549&extension=ts&play_token=4Vm7qHOb4s
+#EXTINF:-1 ,ALB| PLAYME HORROR 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539551&extension=ts&play_token=hvNFjNfcH2
+#EXTINF:-1 ,ALB| PLAYME HORROR 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539550&extension=ts&play_token=KbhC5J4hnw
+#EXTINF:-1 ,ALB| PLAYME DOCUMENTAIR 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539544&extension=ts&play_token=LLyq12FUWc
+#EXTINF:-1 ,ALB| PLAYME DOCUMENTAIR 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539545&extension=ts&play_token=HQuUCzBy47
+#EXTINF:-1 ,ALB| PLAYME KIDS 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539552&extension=ts&play_token=JnrQjwxiC2
+#EXTINF:-1 ,ALB| PLAYME KIDS 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539553&extension=ts&play_token=VN20O4mjCO
+#EXTINF:-1 ,ALB| PLAYME KIDS 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539554&extension=ts&play_token=pgVZcY1xIp
+#EXTINF:-1 ,ALB| PLAYME KIDS 4 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539555&extension=ts&play_token=OAhCnxM2tA
+#EXTINF:-1 ,ALB| DIGI MOVIES 1 FHD FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539583&extension=ts&play_token=ycZGUxS8uZ
+#EXTINF:-1 ,ALB| DIGI MOVIES 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539584&extension=ts&play_token=SWMrPFIs9W
+#EXTINF:-1 ,ALB| DIGI MOVIES 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539585&extension=ts&play_token=KDyDIBTGEG
+#EXTINF:-1 ,ALB| DIGI MOVIES 4 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539586&extension=ts&play_token=zImCGsKkh5
+#EXTINF:-1 ,ALB| DIGI MOVIES 5 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539587&extension=ts&play_token=L6puxMiDsX
+#EXTINF:-1 ,ALB| DIGI MOVIES 6 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539588&extension=ts&play_token=LRMMA6C0hc
+#EXTINF:-1 ,ALB| DIGI MOVIES 7 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539589&extension=ts&play_token=k1j2FGch6R
+#EXTINF:-1 ,ALB| DIGI MOVIES 8 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539590&extension=ts&play_token=vGU5BLYX1v
+#EXTINF:-1 ,ALB| 24/7 WARRIOS FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539582&extension=ts&play_token=3MpRlnZv2g
+#EXTINF:-1 ,ALB| 24/7 VIKINGS FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539581&extension=ts&play_token=obqSLwXPNI
+#EXTINF:-1 ,ALB| 24/7 TOP BOY FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539580&extension=ts&play_token=ix4vCNZDUQ
+#EXTINF:-1 ,ALB| 24/7 THE PROTECTOR FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539579&extension=ts&play_token=bS4vtDgr4K
+#EXTINF:-1 ,ALB| 24/7 TEHRAN FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539578&extension=ts&play_token=hmuX12WpDD
+#EXTINF:-1 ,ALB| 24/7 SUBURRA FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539577&extension=ts&play_token=BFxKTQMDQd
+#EXTINF:-1 ,ALB| 24/7 SONS OF ANARCHY FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539576&extension=ts&play_token=SCypE60s1N
+#EXTINF:-1 ,ALB| 24/7 SEE FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539575&extension=ts&play_token=xKEMMSqm3K
+#EXTINF:-1 ,ALB| 24/7 QUEEN OF THE SOUTH  FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539574&extension=ts&play_token=0xVYCHceew
+#EXTINF:-1 ,ALB| 24/7 OZARK FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539573&extension=ts&play_token=PEGc6U3nsZ
+#EXTINF:-1 ,ALB| 24/7 NARCOS MEXICO FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539572&extension=ts&play_token=TezuQ15734
+#EXTINF:-1 ,ALB| 24/7 MONEY HEIST FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539571&extension=ts&play_token=U5hz6WfWE8
+#EXTINF:-1 ,ALB| LUCIFER FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539570&extension=ts&play_token=Tm5KnXpUsF
+#EXTINF:-1 ,ALB| HOUSE OF_THE DRAGON FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539569&extension=ts&play_token=Cf2JOxFZ2y
+#EXTINF:-1 ,ALB| 24/7 GODFATHER OF HARLEM FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539568&extension=ts&play_token=zNThZYhYjQ
+#EXTINF:-1 ,ALB| 24/7 GANGS OF LONDON FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539567&extension=ts&play_token=XnqqbjabBV
+#EXTINF:-1 ,ALB| 24/7 GAME OF THRONES FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539566&extension=ts&play_token=BKdSRxHRQo
+#EXTINF:-1 ,ALB| 24/7 DARK FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539565&extension=ts&play_token=hUkV045erF
+#EXTINF:-1 ,ALB| 24/7 FRONTIER FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539564&extension=ts&play_token=h38VLhUfD0
+#EXTINF:-1 ,ALB| 24/7 BARBARIANS FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1539563&extension=ts&play_token=nh3aAxiBtT
+#EXTINF:-1 ,ALB| FILM GOLD HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116086&extension=ts&play_token=0Tw2FSv28Q
+#EXTINF:-1 ,ALB| FILM MAX 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116079&extension=ts&play_token=sDlooAZnY8
+#EXTINF:-1 ,ALB| FILM T HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116089&extension=ts&play_token=yrFvNxT6jq
+#EXTINF:-1 ,ALB| FILM AKSION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116076&extension=ts&play_token=UzW02iGq3y
+#EXTINF:-1 ,ALB| FILM AUTOR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116077&extension=ts&play_token=mtAbKFwncA
+#EXTINF:-1 ,ALB| FILM DRAMË
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116078&extension=ts&play_token=MNTx3ZEkpF
+#EXTINF:-1 ,ALB| FILM FAMILY HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116082&extension=ts&play_token=Vpw2objJ5l
+#EXTINF:-1 ,ALB| FILM HITS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116083&extension=ts&play_token=Arz7YBFswO
+#EXTINF:-1 ,ALB| FILM KOMEDI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116084&extension=ts&play_token=4nj6iNLH5Y
+#EXTINF:-1 ,ALB| FILM THRILLER
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116090&extension=ts&play_token=Xt2Xgu4Rq6
+#EXTINF:-1 ,ALB| FILM GOLD 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116085&extension=ts&play_token=SYk1KHCSqa
+#EXTINF:-1 ,ALB| DIGI GOLD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=917711&extension=ts&play_token=4AQKpnJJEx
+#EXTINF:-1 ,ALB| SKY KOMEDI HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116059&extension=ts&play_token=qpT2Cn4hCD
+#EXTINF:-1 ,ALB| TRING SUPER 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116191&extension=ts&play_token=lYycXR4j2c
+#EXTINF:-1 ,ALB| TRING ACTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116181&extension=ts&play_token=G4bQPGbkCG
+#EXTINF:-1 ,ALB| TRING COMEDY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116182&extension=ts&play_token=vrwZHyTLOc
+#EXTINF:-1 ,ALB| TRING FANTASY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116183&extension=ts&play_token=41tc4Zu4eS
+#EXTINF:-1 ,ALB| TRING FAMILY HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=860385&extension=ts&play_token=I1LExZL0RD
+#EXTINF:-1 ,ALB| TRING CLASSIC HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=860384&extension=ts&play_token=DUgR7aNpN3
+#EXTINF:-1 ,ALB| TRING SHQIP
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116189&extension=ts&play_token=p42cohM5Hx
+#EXTINF:-1 ,ALB| TRING SMILE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116190&extension=ts&play_token=Nbg46WsiBx
+#EXTINF:-1 ,ALB| TRING NOVELAS HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=917710&extension=ts&play_token=20UeRdc70k
+#EXTINF:-1 ,ALB| TRING TURKISH STORIES 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1463914&extension=ts&play_token=Yq6Bnc0SXL
+#EXTINF:-1 ,ALB| TRING SERIES HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116185&extension=ts&play_token=iYpqbS7jpo
+#EXTINF:-1 ,ALB| TRING LIFE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116187&extension=ts&play_token=gn4ZS2voi3
+#EXTINF:-1 ,ALB| TRING 3+
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116180&extension=ts&play_token=GFftgemTue
+#EXTINF:-1 ,ALB| FOX CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116239&extension=ts&play_token=TBz3xhtntE
+#EXTINF:-1 ,ALB| KANAL D DRAMA FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1271767&extension=ts&play_token=TfMm7khSSR
+#EXTINF:-1 ,ALB| KANAL D DRAMA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=164354&extension=ts&play_token=g6fgvwUtdy
+#EXTINF:-1 ,ALB| DIZI TDC 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=469117&extension=ts&play_token=ioTAV9Dk2T
+#EXTINF:-1 ,ALB| DIZI TDC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=469118&extension=ts&play_token=7QAlzYF5gO
+#EXTINF:-1 ,ALB| EURO FILM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116067&extension=ts&play_token=a27PywLK5w
+#EXTINF:-1 ,ALB| DIGI GOLD 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=917712&extension=ts&play_token=kz7pnLlqGz
+#EXTINF:-1 ,ALB| DIGI GOLD 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=917713&extension=ts&play_token=86Cu8t50km
+#EXTINF:-1 ,ALB| DIGI GOLD 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=917714&extension=ts&play_token=HlMFVVOg5I
+#EXTINF:-1 ,ALB| DIGI GOLD 4
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=917715&extension=ts&play_token=PvV47aPPfm
+#EXTINF:-1 ,ALB| DISCOVERY+ 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941560&extension=ts&play_token=flPvX99mSM
+#EXTINF:-1 ,ALB| DISCOVERY+ 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941559&extension=ts&play_token=vJ5FVRrrIP
+#EXTINF:-1 ,ALB| DISCOVERY+ 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941558&extension=ts&play_token=qJaI66zprv
+#EXTINF:-1 ,ALB| DISCOVERY+ 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941557&extension=ts&play_token=DmgyhA84k3
+#EXTINF:-1 ,ALB| DISCOVERY+ 5 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941556&extension=ts&play_token=oepgWsPj0z
+#EXTINF:-1 ,ALB| DISCOVERY+ 6 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941555&extension=ts&play_token=XH5NjKlzdy
+#EXTINF:-1 ,ALB| DISCOVERY+ 7 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941554&extension=ts&play_token=YHY5b2Zx0m
+#EXTINF:-1 ,ALB| DISCOVERY+ 8 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941553&extension=ts&play_token=828YiSSO0A
+#EXTINF:-1 ,ALB| DISCOVERY+ 9 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941552&extension=ts&play_token=ptKzOYSW97
+#EXTINF:-1 ,ALB| DISCOVERY+ 10 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941551&extension=ts&play_token=1NaAzIPXi1
+#EXTINF:-1 ,ALB| DISCOVERY+ MAX 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941550&extension=ts&play_token=EQONZpAA9v
+#EXTINF:-1 ,ALB| DISCOVERY+ MAX 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941549&extension=ts&play_token=0oYKJcppE2
+#EXTINF:-1 ,ALB| DISCOVERY+ MAX 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941548&extension=ts&play_token=KH1vT5VAnK
+#EXTINF:-1 ,ALB| DISCOVERY+ MAX 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941547&extension=ts&play_token=vefiaf2j99
+#EXTINF:-1 ,ALB| DISCOVERY+ MAX 5 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941546&extension=ts&play_token=7HH3GwIC5u
+#EXTINF:-1 ,ALB| DISCOVERY+ MAX 6 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=941545&extension=ts&play_token=JuPeQgPQur
+#EXTINF:-1 ,##### ALB REGIONAL #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1122024&extension=ts&play_token=1Z4uh5vpGf
+#EXTINF:-1 ,ALB| O SA MIRE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1501620&extension=ts&play_token=qMtAtJEwNN
+#EXTINF:-1 ,ALB| TEMA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116272&extension=ts&play_token=ZRiabcGHh8
 #EXTINF:-1 ,ALB| TV ZJARR
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222595&extension=ts&play_token=MO3vuo9KLn&sn2=
-#EXTINF:-1 ,ALB| STV FOLK
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222591&extension=ts&play_token=eT3ZyBfcyQ&sn2=
-#EXTINF:-1 ,ALB| SUPERSONIC MUZIK
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222589&extension=ts&play_token=RuI2DsWqEs&sn2=
-#EXTINF:-1 ,ALB| BBF MUSIC HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222588&extension=ts&play_token=aI6QYkL8kn&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116225&extension=ts&play_token=UoUlIoIwd0
+#EXTINF:-1 ,ALB| MCN TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=897321&extension=ts&play_token=wBOigp6ZT0
+#EXTINF:-1 ,ALB| MCN TV 24
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1444821&extension=ts&play_token=TpIY0Ajpqs
+#EXTINF:-1 ,ALB| TV1 CHANNEL SHKODËR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116226&extension=ts&play_token=E1m85ZDcr5
+#EXTINF:-1 ,ALB| STAR PLUS SHKODËR HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116270&extension=ts&play_token=fzPJbBdOOg
+#EXTINF:-1 ,ALB| TV KOPLIKU HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116231&extension=ts&play_token=K1DXvyXFOw
+#EXTINF:-1 ,ALB| DRITA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1035719&extension=ts&play_token=I9IRvNQCfE
+#EXTINF:-1 ,ALB| APOLLON TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1082716&extension=ts&play_token=QPjYiPSlQ9
+#EXTINF:-1 ,##### ALB MUSIC #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=196717&extension=ts&play_token=NGtoGEDiZ8
+#EXTINF:-1 ,ALB| BLUE SKY TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=206183&extension=ts&play_token=ZPtIaKocd1
+#EXTINF:-1 ,ALB| RTSH MUZIKE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116133&extension=ts&play_token=7xCGAqXeu0
+#EXTINF:-1 ,ALB| MY MUSIC HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116264&extension=ts&play_token=8vz7QiypXZ
 #EXTINF:-1 ,ALB| FOLK PLUS
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222587&extension=ts&play_token=eBcuvcm83X&sn2=
-#EXTINF:-1 ,ALB| TV OPOJA
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222580&extension=ts&play_token=uISJdNHnlz&sn2=
-#EXTINF:-1 ,ALB| Sportivë ALB|
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222575&extension=ts&play_token=oadJafOgpr&sn2=
-#EXTINF:-1 ,ALB| ART SPORT 1 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222574&extension=ts&play_token=Ve5wAxdoDb&sn2=
-#EXTINF:-1 ,ALB| ART SPORT 2 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222573&extension=ts&play_token=GIMtGS0thg&sn2=
-#EXTINF:-1 ,ALB| KUJTESA SPORT 1
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222571&extension=ts&play_token=tQMIEqtT9i&sn2=
-#EXTINF:-1 ,ALB| KUJTESA SPORT 2
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222570&extension=ts&play_token=gqHZk3yeis&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116357&extension=ts&play_token=X9kRXUvnEJ
+#EXTINF:-1 ,ALB| STV FOLK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116359&extension=ts&play_token=Zp2YjGJI0J
+#EXTINF:-1 ,ALB| SUPERSONIC TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116360&extension=ts&play_token=MXp1EILqQq
+#EXTINF:-1 ,ALB| ELRODI TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=294535&extension=ts&play_token=IqST4qPq0A
+#EXTINF:-1 ,ALB| IN TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116096&extension=ts&play_token=6NFzjjpUJJ
+#EXTINF:-1 ,ALB| A MOL TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116224&extension=ts&play_token=1Yrl3gbnm8
+#EXTINF:-1 ,ALB| CLICK HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116236&extension=ts&play_token=xol63v9QFP
+#EXTINF:-1 ,ALB| BBF MUSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1035714&extension=ts&play_token=ULpyo4IIGT
+#EXTINF:-1 ,##### ALB CHILDREN #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=196722&extension=ts&play_token=Lim9CzUe01
+#EXTINF:-1 ,ALB| RTSH FEMIJE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116130&extension=ts&play_token=LKuNf2zHlT
+#EXTINF:-1 ,ALB| BANG BANG
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116057&extension=ts&play_token=g3itOvSetU
+#EXTINF:-1 ,ALB| CUFO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116060&extension=ts&play_token=hO6UG2sngA
+#EXTINF:-1 ,ALB| JUNIOR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116100&extension=ts&play_token=cuQWFE0x4h
+#EXTINF:-1 ,ALB| TIP TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116175&extension=ts&play_token=RkiS4s6aCb
+#EXTINF:-1 ,ALB| TRING KIDS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116186&extension=ts&play_token=XJvQerRalM
+#EXTINF:-1 ,ALB| TRING TRING
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116192&extension=ts&play_token=wR1rWYvLxO
+#EXTINF:-1 ,ALB| SOFIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116173&extension=ts&play_token=UfCtiDBgGU
+#EXTINF:-1 ,ALB| BOOMERANG
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116303&extension=ts&play_token=ftkU3Nykrm
+#EXTINF:-1 ,ALB| TOM & JERRY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116162&extension=ts&play_token=XQ1rxgAHxk
+#EXTINF:-1 ,ALB| DUCK TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116075&extension=ts&play_token=t2TyZUlUL8
+#EXTINF:-1 ,ALB| PJ MASKS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116118&extension=ts&play_token=9QI7DnDIRt
+#EXTINF:-1 ,ALB| BABY TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116056&extension=ts&play_token=RXG5RiB0Xx
+#EXTINF:-1 ,ALB| ART PRINCE KIDS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116301&extension=ts&play_token=weSSCiVFq6
+#EXTINF:-1 ,ALB| DRAGON BALL Z HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116066&extension=ts&play_token=9NJN7ZyG6K
+#EXTINF:-1 ,##### ALB SPORT #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=196721&extension=ts&play_token=kV4I7xZEAm
+#EXTINF:-1 ,ALB| SUPER SPORT 1 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116330&extension=ts&play_token=DcqztOcKAG
+#EXTINF:-1 ,ALB| SUPER SPORT 1 4K HEVC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=315174&extension=ts&play_token=tSiloOYSoJ
 #EXTINF:-1 ,ALB| SUPER SPORT 1 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222567&extension=ts&play_token=ikrIfOZ7SF&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116248&extension=ts&play_token=Zyc8SrJQak
+#EXTINF:-1 ,ALB| SUPER SPORT 2 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116331&extension=ts&play_token=irKbMS3jWb
+#EXTINF:-1 ,ALB| SUPER SPORT 2 4K HEVC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=315173&extension=ts&play_token=t2uxLfFmUa
 #EXTINF:-1 ,ALB| SUPER SPORT 2 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222566&extension=ts&play_token=7VeknAfjNU&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116249&extension=ts&play_token=WobdhqDJYO
+#EXTINF:-1 ,ALB| SUPER SPORT 3 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116332&extension=ts&play_token=gRExZ90SVA
+#EXTINF:-1 ,ALB| SUPER SPORT 3 4K HEVC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=315172&extension=ts&play_token=18oiiJZb9Y
 #EXTINF:-1 ,ALB| SUPER SPORT 3 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222565&extension=ts&play_token=afv4uedTS2&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116250&extension=ts&play_token=vu3oSDMboo
+#EXTINF:-1 ,ALB| SUPER SPORT 4 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116333&extension=ts&play_token=44neC6oXaT
+#EXTINF:-1 ,ALB| SUPER SPORT4 4K HEVC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=315171&extension=ts&play_token=QLTKqzQirW
 #EXTINF:-1 ,ALB| SUPER SPORT 4 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222564&extension=ts&play_token=zVfn5xPUSo&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116251&extension=ts&play_token=sxS0hmhgKG
+#EXTINF:-1 ,ALB| SUPER SPORT 5 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116334&extension=ts&play_token=bANPzHfzt3
+#EXTINF:-1 ,ALB| SUPER SPORT 5 4K HEVC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=315170&extension=ts&play_token=3YSQwmJpps
+#EXTINF:-1 ,ALB| SUPER SPORT 5 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116252&extension=ts&play_token=dwgiL7nRDO
+#EXTINF:-1 ,ALB| SUPER SPORT6 4K HEVC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=315169&extension=ts&play_token=chPIQqAwSE
+#EXTINF:-1 ,ALB| SUPER SPORT 6 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116335&extension=ts&play_token=Ye36zxP3wL
+#EXTINF:-1 ,ALB| SUPER SPORT 6 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116253&extension=ts&play_token=ij0OH8QlEp
+#EXTINF:-1 ,ALB| SUPER SPORT7 4K HEVC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=315168&extension=ts&play_token=8yoMHefgYT
+#EXTINF:-1 ,ALB| SUPER SPORT 7 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116336&extension=ts&play_token=j2SCuPfjbr
+#EXTINF:-1 ,ALB| TRING SPORT NEWS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116218&extension=ts&play_token=vYwtSuk9vn
 #EXTINF:-1 ,ALB| TRING SPORT NEWS HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222563&extension=ts&play_token=fyJO8A2P4x&sn2=
-#EXTINF:-1 ,ALB| TRING SPORT 1 FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222562&extension=ts&play_token=MpJVaLPs7i&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116219&extension=ts&play_token=94bytPNlQm
+#EXTINF:-1 ,ALB| TRING SPORT 1 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116210&extension=ts&play_token=IsimnBAKBt
 #EXTINF:-1 ,ALB| TRING SPORT 1 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222561&extension=ts&play_token=NDzuy5RFES&sn2=
-#EXTINF:-1 ,ALB| TRING SPORT 2 FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222560&extension=ts&play_token=SjVH8CWvhN&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116211&extension=ts&play_token=BlzaZTVHEX
+#EXTINF:-1 ,ALB| TRING SPORT 2 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116212&extension=ts&play_token=2SII6l32eM
 #EXTINF:-1 ,ALB| TRING SPORT 2 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222559&extension=ts&play_token=eQcXz8CErp&sn2=
-#EXTINF:-1 ,ALB| TRING SPORT 3 FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222558&extension=ts&play_token=IM6Atzguwz&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116213&extension=ts&play_token=2OeZ0t2u7W
+#EXTINF:-1 ,ALB| TRING SPORT 3 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116214&extension=ts&play_token=VztOpoD4Cc
 #EXTINF:-1 ,ALB| TRING SPORT 3 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222557&extension=ts&play_token=InppJ2ujL4&sn2=
-#EXTINF:-1 ,ALB| TRING SPORT 4 FHD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222556&extension=ts&play_token=GIp6VXAcfw&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116215&extension=ts&play_token=yErSBQQXP8
+#EXTINF:-1 ,ALB| TRING SPORT 4 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116216&extension=ts&play_token=xwoN14Xy63
 #EXTINF:-1 ,ALB| TRING SPORT 4 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222555&extension=ts&play_token=0bomhfOB7r&sn2=
-#EXTINF:-1 ,ALB| Islam ALB|
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222554&extension=ts&play_token=e7jXC1BMKe&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116217&extension=ts&play_token=KmPAsjATSs
+#EXTINF:-1 ,ALB| KLAN SPORT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=819621&extension=ts&play_token=kVOnv56U1f
+#EXTINF:-1 ,ALB| KLAN SPORT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=819622&extension=ts&play_token=8uckMScgIn
+#EXTINF:-1 ,ALB| OVERSPORT 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=819623&extension=ts&play_token=5KqYbFRBfo
+#EXTINF:-1 ,ALB| OVERSPORT 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=819624&extension=ts&play_token=jz4P6wp1Mz
+#EXTINF:-1 ,##### KO SPORT #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1122023&extension=ts&play_token=NVyejK6FDq
+#EXTINF:-1 ,ALB| SUPER SPORT KOSOVA 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=902985&extension=ts&play_token=C7HukXxXLc
+#EXTINF:-1 ,ALB| SUPER SPORT KOSOVA 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=902988&extension=ts&play_token=YcBZNKQMVa
+#EXTINF:-1 ,ALB| K SPORT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116257&extension=ts&play_token=zkJvV3X9vG
+#EXTINF:-1 ,ALB| K SPORT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116258&extension=ts&play_token=wSUpuEfEfQ
+#EXTINF:-1 ,ALB| K SPORT 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116259&extension=ts&play_token=xDYLSNJVPl
+#EXTINF:-1 ,ALB| K SPORT 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116260&extension=ts&play_token=elFOW8sLZz
+#EXTINF:-1 ,ALB| K SPORT 5 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116247&extension=ts&play_token=VKvXx5kcKG
+#EXTINF:-1 ,ALB| ART SPORT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116245&extension=ts&play_token=UKXGWFJSDn
+#EXTINF:-1 ,ALB| ART SPORT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116244&extension=ts&play_token=nMxjJG80KW
+#EXTINF:-1 ,ALB| ART SPORT 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116243&extension=ts&play_token=dA31dhWoF7
+#EXTINF:-1 ,ALB| ART SPORT 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1033371&extension=ts&play_token=8ksB1fwL54
+#EXTINF:-1 ,ALB| ART SPORT 5 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1033372&extension=ts&play_token=PDcn0eigCA
+#EXTINF:-1 ,ALB| ART SPORT 6 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1033373&extension=ts&play_token=Op0hECdRK3
+#EXTINF:-1 ,ALB| FIGHT BOX HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116238&extension=ts&play_token=pyu9wN97t0
+#EXTINF:-1 ,##### KO GENERAL #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1122035&extension=ts&play_token=vpn1hWlczA
+#EXTINF:-1 ,ALB| RTK 1 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116364&extension=ts&play_token=Rftlkz1dKk
+#EXTINF:-1 ,ALB| RTK 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116121&extension=ts&play_token=xsS9lLGptd
+#EXTINF:-1 ,ALB| RTK 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116120&extension=ts&play_token=OfYwqxd1bc
+#EXTINF:-1 ,ALB| RTK 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116365&extension=ts&play_token=Fyq4RGyMut
+#EXTINF:-1 ,ALB| RTK 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116122&extension=ts&play_token=GvFsllY702
+#EXTINF:-1 ,ALB| RTK 3 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116366&extension=ts&play_token=QbQmfku3Ix
+#EXTINF:-1 ,ALB| RTK 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116367&extension=ts&play_token=0fQyTUQMsU
+#EXTINF:-1 ,ALB| RTK 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116123&extension=ts&play_token=fAV7mSTH3L
+#EXTINF:-1 ,ALB| RTK 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116368&extension=ts&play_token=1w2tkNGJTB
+#EXTINF:-1 ,ALB| RTK 4
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116124&extension=ts&play_token=eg9e5SK5p8
+#EXTINF:-1 ,ALB| RTV 21 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116138&extension=ts&play_token=wyG1LPpl4h
+#EXTINF:-1 ,ALB| RTV 21 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116137&extension=ts&play_token=jPJsmO4szi
+#EXTINF:-1 ,ALB| TËVË 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=906875&extension=ts&play_token=5GFYBz3KiP
+#EXTINF:-1 ,ALB| ATV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=467632&extension=ts&play_token=6jiTpCwI6o
+#EXTINF:-1 ,ALB| ATV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=472945&extension=ts&play_token=GQTgqVR2Nz
+#EXTINF:-1 ,ALB| KTV KOHAVISION 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116110&extension=ts&play_token=iVKZuZCDVO
+#EXTINF:-1 ,ALB| KTV KOHAVISION HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116109&extension=ts&play_token=nQH7mRuwdI
+#EXTINF:-1 ,ALB| TV KOHA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116196&extension=ts&play_token=CBkVkNKnfR
+#EXTINF:-1 ,ALB| KLAN KOSOVA 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116352&extension=ts&play_token=TtLK0Wfgf5
+#EXTINF:-1 ,ALB| KLAN KOSOVA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116105&extension=ts&play_token=TzzeHBh2pT
+#EXTINF:-1 ,ALB| TV DUKAGJINI FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116305&extension=ts&play_token=q7hGVbxRp9
+#EXTINF:-1 ,ALB| RTV DUKAGJINI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=442786&extension=ts&play_token=o79atjO3tA
+#EXTINF:-1 ,ALB| RTV21 MIX HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116141&extension=ts&play_token=EEBwK7ubOX
+#EXTINF:-1 ,ALB| RTV21 PLUS HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116143&extension=ts&play_token=S8YXenbDoH
+#EXTINF:-1 ,ALB| RTV21 JUNIOR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116139&extension=ts&play_token=DuCvt5zqrC
+#EXTINF:-1 ,ALB| FIRST TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116095&extension=ts&play_token=u0GzMMEluN
+#EXTINF:-1 ,ALB| T7 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116337&extension=ts&play_token=Lu93T4J4N5
+#EXTINF:-1 ,ALB| T7
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116174&extension=ts&play_token=VutlLdNIFG
+#EXTINF:-1 ,ALB| KANAL 10 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1030842&extension=ts&play_token=sQS4lAZjwn
+#EXTINF:-1 ,ALB| KANAL 10
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116266&extension=ts&play_token=xtF3KlUmAG
+#EXTINF:-1 ,ALB| SYRI VISION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116234&extension=ts&play_token=INm9JA2zsl
+#EXTINF:-1 ,ALB| ARTI TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=844820&extension=ts&play_token=tDzOucoveM
+#EXTINF:-1 ,##### KO NEWS #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1122030&extension=ts&play_token=RJpBwtAorq
+#EXTINF:-1 ,ALB| ARTA NEWS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116232&extension=ts&play_token=718L9BkLrL
+#EXTINF:-1 ,ALB| ARTA NEWS 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116302&extension=ts&play_token=DCmQU2u2ax
+#EXTINF:-1 ,ALB| RTV21 NEWSBIZ 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116142&extension=ts&play_token=TSE31Ar2DZ
+#EXTINF:-1 ,##### KO DOCUMENTARIES #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1122029&extension=ts&play_token=jg8CHHmKkI
+#EXTINF:-1 ,ALB| ART DOKU 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=992098&extension=ts&play_token=2tyBRddBAp
+#EXTINF:-1 ,ALB| ART DOKU 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=992097&extension=ts&play_token=LIFg3Q5Oqi
+#EXTINF:-1 ,ALB| X HISTORI HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116280&extension=ts&play_token=wiMIzWqSQ6
+#EXTINF:-1 ,ALB| X NATYRA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116283&extension=ts&play_token=22UhsHPCQ3
+#EXTINF:-1 ,ALB| SKY PLANET
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116170&extension=ts&play_token=YNz6QzM1ly
+#EXTINF:-1 ,ALB| SKY SHKENCE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116171&extension=ts&play_token=yaCOa6wOie
+#EXTINF:-1 ,ALB| SKY HISTORY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116172&extension=ts&play_token=Ocsy3kwxvs
+#EXTINF:-1 ,##### KO REGIONAL #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1122028&extension=ts&play_token=XSGYceEXi2
+#EXTINF:-1 ,ALB| BESA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116235&extension=ts&play_token=4cRCQZhpLh
+#EXTINF:-1 ,ALB| TV LIRIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116197&extension=ts&play_token=o1TqedWCij
+#EXTINF:-1 ,ALB| TV MITROVICA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116222&extension=ts&play_token=rpqXPljrL0
+#EXTINF:-1 ,ALB| ISTOGU CHANNEL FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1081242&extension=ts&play_token=p5fcaXFrUK
+#EXTINF:-1 ,ALB| TV PRIZRENI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=739509&extension=ts&play_token=0RJcluEFme
+#EXTINF:-1 ,ALB| DIELLI TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1035718&extension=ts&play_token=bJfo97OhOI
+#EXTINF:-1 ,ALB| DIASPORA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1035716&extension=ts&play_token=B75Oiw9aGh
+#EXTINF:-1 ,ALB| RTV FONTANA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1081149&extension=ts&play_token=yrqPVMEi9j
+#EXTINF:-1 ,ALB| SPIN TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1083964&extension=ts&play_token=0TesIaPRP1
+#EXTINF:-1 ,##### KO MACEDONIA & MONTENEGRO #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1122027&extension=ts&play_token=cOylRdwBIG
+#EXTINF:-1 ,ALB| RTV21 MAQEDONIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116140&extension=ts&play_token=SwymRzGItN
+#EXTINF:-1 ,ALB| ALSAT M FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116051&extension=ts&play_token=4DuEufJTGw
+#EXTINF:-1 ,ALB| ALSAT M
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116050&extension=ts&play_token=UeTPMAE059
+#EXTINF:-1 ,ALB| MRT 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116263&extension=ts&play_token=pvFbWesUOM
+#EXTINF:-1 ,ALB| KLAN MACEDONIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116324&extension=ts&play_token=dSHxS2J71U
+#EXTINF:-1 ,ALB| TV2 GOSTIVAR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116206&extension=ts&play_token=PzLj8OTLs6
+#EXTINF:-1 ,ALB| TV GLOBI HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1081859&extension=ts&play_token=VFpBxvkTcU
+#EXTINF:-1 ,ALB| TV TETOVA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116256&extension=ts&play_token=FyEj7rwsgW
+#EXTINF:-1 ,ALB| TV USKANA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=238028&extension=ts&play_token=8H2wUYgVxu
+#EXTINF:-1 ,ALB| SHENJA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116145&extension=ts&play_token=AC5igUMRMF
+#EXTINF:-1 ,ALB| POLLOGU TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1035715&extension=ts&play_token=AsX1dMtjKP
+#EXTINF:-1 ,ALB| RTV ILIRIDA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=811269&extension=ts&play_token=NY39MAHyX1
+#EXTINF:-1 ,ALB| RTV ILIRIDA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=622181&extension=ts&play_token=Kmj2qoatE2
+#EXTINF:-1 ,ALB| RTV ILIRIDA : MUSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=828920&extension=ts&play_token=cHnLgyEEYy
+#EXTINF:-1 ,ALB| RTV ILIRIDA : HUMOUR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=828919&extension=ts&play_token=qp9Nayrzvs
+#EXTINF:-1 ,ALB| RTV ILIRIDA : FEMIJ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=828918&extension=ts&play_token=nTZTtRhMxH
+#EXTINF:-1 ,ALB| RTV ILIRIDA : FILM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=828901&extension=ts&play_token=dnNh8C9BCc
+#EXTINF:-1 ,ALB| RTV ILIRIDA : DOKUMENTAR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=828843&extension=ts&play_token=32Zpu91rrC
+#EXTINF:-1 ,ALB| RTV ILIRIDA : RTV ILIRIDA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=828827&extension=ts&play_token=YXy3P473j0
+#EXTINF:-1 ,ALB| ULQINI TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1035713&extension=ts&play_token=ODD5whxaW5
+#EXTINF:-1 ,##### KO MUSIC #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1122026&extension=ts&play_token=PC7z5UlJar
+#EXTINF:-1 ,ALB| TV ERA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116194&extension=ts&play_token=BB1vVCMkKp
+#EXTINF:-1 ,ALB| DASMA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=746078&extension=ts&play_token=8qzUaiiu41
+#EXTINF:-1 ,ALB| TOP ESTRADA MUSIC HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116178&extension=ts&play_token=vA3zgkagb0
+#EXTINF:-1 ,ALB| VIVA MUSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116201&extension=ts&play_token=qpD9Vq3Tyz
+#EXTINF:-1 ,ALB| TV TEUTA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1040570&extension=ts&play_token=yU7upSCSZ0
+#EXTINF:-1 ,ALB| MTV KOSOVA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116341&extension=ts&play_token=xbGucKwlJZ
+#EXTINF:-1 ,ALB| MUSIC: TV SHARRI HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116362&extension=ts&play_token=5vJkw0rHy1
+#EXTINF:-1 ,ALB| PITO MUSIC HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=160681&extension=ts&play_token=7dVTEXPIJg
+#EXTINF:-1 ,ALB| SYRI BLU MUSIC HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116271&extension=ts&play_token=CwZ7V4YKec
+#EXTINF:-1 ,ALB| RTV21 POPULLORE HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116144&extension=ts&play_token=DTxYHdoXAB
+#EXTINF:-1 ,ALB| SWISS TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116049&extension=ts&play_token=BMW5KUbkLp
+#EXTINF:-1 ,ALB| ZICO TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116228&extension=ts&play_token=9J3V3Nu45Y
+#EXTINF:-1 ,ALB| TURBO CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116269&extension=ts&play_token=cZibzXV3Pi
+#EXTINF:-1 ,ALB| SHOTA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1035720&extension=ts&play_token=mkcIs98w8v
+#EXTINF:-1 ,##### KO MOVIES & SERIES #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=1122025&extension=ts&play_token=sIPf9fGTFW
+#EXTINF:-1 ,ALB| ART KINO PREMIUM 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116297&extension=ts&play_token=htSpMbmWTE
+#EXTINF:-1 ,ALB| ART KINO PREMIUM 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116298&extension=ts&play_token=MORqTIou8P
+#EXTINF:-1 ,ALB| ART PRIME HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116300&extension=ts&play_token=pRq4UuHxM0
+#EXTINF:-1 ,ALB| FILMBOX ARTHOUSE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116091&extension=ts&play_token=zgQXsfCyYq
+#EXTINF:-1 ,ALB| FILMBOX EXTRA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116092&extension=ts&play_token=1QKc80jHam
+#EXTINF:-1 ,ALB| FILMBOX PLUS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116093&extension=ts&play_token=BZBEbv6DRU
+#EXTINF:-1 ,ALB| FILMBOX PREMIUM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116094&extension=ts&play_token=BayOwVqqb2
+#EXTINF:-1 ,ALB| KINO PREMIER 1 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116316&extension=ts&play_token=Z1HWcYbu55
+#EXTINF:-1 ,ALB| KINO PREMIER 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116317&extension=ts&play_token=VDQHVWEf0Y
+#EXTINF:-1 ,ALB| KINO FESTA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116311&extension=ts&play_token=V6Xq8vCQvb
+#EXTINF:-1 ,ALB| KINO HISTORY HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116312&extension=ts&play_token=m4XOfRRjB1
+#EXTINF:-1 ,ALB| KINO SHQIP HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116310&extension=ts&play_token=BizO90tuxK
+#EXTINF:-1 ,ALB| KINO STUPCAT HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116321&extension=ts&play_token=V2Lc1oj1mQ
+#EXTINF:-1 ,ALB| KINO THRILLER HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116322&extension=ts&play_token=oRMZWEInid
+#EXTINF:-1 ,ALB| Q ACTION HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116151&extension=ts&play_token=nZY2L6U7T7
+#EXTINF:-1 ,ALB| Q DRAMA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116154&extension=ts&play_token=8J4TwSJw0x
+#EXTINF:-1 ,ALB| Q KOMEDI HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116157&extension=ts&play_token=BXqjgMIKaQ
+#EXTINF:-1 ,ALB| Q MUZIKE SHQIP
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116156&extension=ts&play_token=LSZpnfJMrO
+#EXTINF:-1 ,ALB| Q POPULLORE HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116158&extension=ts&play_token=u5kPUpbhrK
+#EXTINF:-1 ,ALB| Q PREMIUM 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116146&extension=ts&play_token=K6F5sj3HX9
+#EXTINF:-1 ,ALB| Q PREMIUM 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116147&extension=ts&play_token=lg2NIcrzFU
+#EXTINF:-1 ,ALB| Q STUPCAT HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116161&extension=ts&play_token=Ek84qgYMhf
+#EXTINF:-1 ,ALB| Q THRILLER HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116152&extension=ts&play_token=K1SajtFXnb
+#EXTINF:-1 ,ALB| Q WESTERN HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116163&extension=ts&play_token=KZP3iCn6jz
+#EXTINF:-1 ,ALB| EURO FILM 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116068&extension=ts&play_token=Rtwrl8p2c2
+#EXTINF:-1 ,ALB| EURO FILM 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116069&extension=ts&play_token=RgTkZWUoMi
+#EXTINF:-1 ,ALB| EURO FILM 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116070&extension=ts&play_token=wcPHyrcteW
+#EXTINF:-1 ,ALB| EURO FILM 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116071&extension=ts&play_token=aio62XnLT9
+#EXTINF:-1 ,ALB| TV PLISI ACTION HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116198&extension=ts&play_token=6JbC3I4KRD
+#EXTINF:-1 ,ALB| TV PLISI FANTASY HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116200&extension=ts&play_token=hIGVh8tVdQ
+#EXTINF:-1 ,ALB| TV PLISI HORROR HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116202&extension=ts&play_token=TDO4DpYt7h
+#EXTINF:-1 ,ALB| TV PLISI HUMOR HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116203&extension=ts&play_token=UfN3l1kLcT
+#EXTINF:-1 ,ALB| TV PLISI QIFTELI HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116204&extension=ts&play_token=IHxRXxqgc2
+#EXTINF:-1 ,ALB| TV PLISI THRILLER HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116205&extension=ts&play_token=oiuzvHp3hE
+#EXTINF:-1 ,ALB| X ACTION HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116274&extension=ts&play_token=XokU6TfpAf
+#EXTINF:-1 ,ALB| X CIFTELI HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116275&extension=ts&play_token=WMyLN5VxPy
+#EXTINF:-1 ,ALB| X COMEDY HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116276&extension=ts&play_token=NvuIi80M0z
+#EXTINF:-1 ,ALB| X DARK HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116277&extension=ts&play_token=zHq0C850Rw
+#EXTINF:-1 ,ALB| X DRAMA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116278&extension=ts&play_token=M0RQJnDY7K
+#EXTINF:-1 ,ALB| X FAMILY HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116279&extension=ts&play_token=WJZMno2NUO
+#EXTINF:-1 ,ALB| X FILMA 24 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116340&extension=ts&play_token=cV5IskFHba
+#EXTINF:-1 ,ALB| X HUMOR HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116281&extension=ts&play_token=QufJkGvAOZ
+#EXTINF:-1 ,ALB| X MUSIC HITS HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116282&extension=ts&play_token=mhk7iz6nsV
+#EXTINF:-1 ,ALB| X THRILLER HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116292&extension=ts&play_token=CzxUohfsFA
+#EXTINF:-1 ,ALB| TELE ONE 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=160693&extension=ts&play_token=50R22jG9dQ
+#EXTINF:-1 ,ALB| TELE ONE 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=160694&extension=ts&play_token=dzUemUGeO0
+#EXTINF:-1 ,ALB| TELE ONE 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=160695&extension=ts&play_token=MppvD3hLGh
+#EXTINF:-1 ,ALB| TELE ONE 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=160696&extension=ts&play_token=RmJjA63PqE
+#EXTINF:-1 ,ALB| TELE ONE 5 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=160697&extension=ts&play_token=4KLnmhHyuT
+#EXTINF:-1 ,ALB| TELE ONE 6 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=160698&extension=ts&play_token=BVVfsGlFeR
+#EXTINF:-1 ,ALB| PITO HUMOR HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116343&extension=ts&play_token=zxupXax1et
+#EXTINF:-1 ,ALB| PITO LOL HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116344&extension=ts&play_token=d11kB7Dtjc
+#EXTINF:-1 ,ALB| ÇKA KA SHPIJA 24/7 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=467654&extension=ts&play_token=KIL0kc50vW
+#EXTINF:-1 ,ALB| FAST & FURIOUS 24/7 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=467709&extension=ts&play_token=pUSAQFTGly
+#EXTINF:-1 ,ALB| KAFENEJA JONE 24/7 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=467655&extension=ts&play_token=DkKemjluum
+#EXTINF:-1 ,ALB| KS FILMA24 KRIM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=467667&extension=ts&play_token=4x6eoXY5W1
+#EXTINF:-1 ,ALB| KS FILMA24 MISTER
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=467665&extension=ts&play_token=xak07WGO88
+#EXTINF:-1 ,ALB| KS FILMA24 ROMANCE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=467669&extension=ts&play_token=tZRxFx5CJx
+#EXTINF:-1 ,ALB| KS FILMA24 TRILLER
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=467666&extension=ts&play_token=m0LH2vwKEk
+#EXTINF:-1 ,ALB| KS STUPCAT FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=467652&extension=ts&play_token=4LAnuWArTF
+#EXTINF:-1 ,ALB| KS THRILLER HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=467691&extension=ts&play_token=4BuUFNsAJO
+#EXTINF:-1 ,ALB| FIRST DRAME HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=167300&extension=ts&play_token=vGmFFJB3ZN
+#EXTINF:-1 ,ALB| FIRST COMEDY HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=167299&extension=ts&play_token=gJABjKWHW8
+#EXTINF:-1 ,ALB| SKY 7
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116164&extension=ts&play_token=NOrskO9qLo
+#EXTINF:-1 ,ALB| SKY AKSION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116165&extension=ts&play_token=3hGkYmfttz
+#EXTINF:-1 ,ALB| SKY COMEDY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116167&extension=ts&play_token=GnAL8DuvLF
+#EXTINF:-1 ,ALB| SKY DRAME
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116166&extension=ts&play_token=Yl6YQQtwuV
+#EXTINF:-1 ,ALB| SKY MAX
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116168&extension=ts&play_token=9rB1nyNxky
+#EXTINF:-1 ,##### ISLAM #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=196716&extension=ts&play_token=NIC1f8cgNT
+#EXTINF:-1 ,ALB| ISLAM CHANNEL 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116098&extension=ts&play_token=8Z6dWLBTd7
+#EXTINF:-1 ,ALB| RTV 1 ISLAM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116227&extension=ts&play_token=fEHPPDuWhk
+#EXTINF:-1 ,ALB| ICE ISLAM HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116241&extension=ts&play_token=Ell0Elt619
+#EXTINF:-1 ,ALB| MEDINE LIVE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116261&extension=ts&play_token=juNXYVvRrF
+#EXTINF:-1 ,ALB| MEKKE LIVE HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116262&extension=ts&play_token=bJXUoLBBZP
 #EXTINF:-1 ,ALB| PEACE TV
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222553&extension=ts&play_token=bzmQtxyYt0&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116265&extension=ts&play_token=dQ4HIaQ6x8
 #EXTINF:-1 ,ALB| RTV ISLAM
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=222552&extension=ts&play_token=bQYAdEU5Hu&sn2=
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116267&extension=ts&play_token=aUnZco3jR7
+#EXTINF:-1 ,ALB| DH TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116061&extension=ts&play_token=kohfX4WvRd
+#EXTINF:-1 ,ALB| RTV PENDIMI HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=116268&extension=ts&play_token=64lXlNhX48
+#EXTINF:-1 ,ALB| RTV-SHQIP ELKALEM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=921829&extension=ts&play_token=UXodROgr59
