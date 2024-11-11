@@ -276,3 +276,43 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=6378&exten
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=6380&extension=ts&play_token=AABWamFPfU
 #EXTINF:-1 ,MAX SPORT 4 HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=6382&extension=ts&play_token=aBHFpXzQ27
+
+
+
+#EXTM3U Albdroid TV Streaming #Dance TV Streaming API (Saturday, 12 October 2024 - 23:39:45)
+#EXTINF:-1 tvg-id="1" tvg-name="Best of Dance TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Deep House" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Deep House
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Techno" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Techno
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Tech House" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Tech House
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="House" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",House
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Minimal  Deep Tech" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Minimal  Deep Tech
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Mainstream (EDM)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Mainstream (EDM)
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Downtempo" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Downtempo
+https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Melodic Tech" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Melodic Tech
+https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Dance TV" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="Deep House" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Deep House
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="Techno" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Techno
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="Tech House" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Tech House
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="House" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",House
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="Minimal  Deep Tech" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Minimal  Deep Tech
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="Mainstream (EDM)" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Mainstream (EDM)
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="Downtempo" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Downtempo
+https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="Melodic Tech" tvg-logo="https://png.kodi.al/tv/albdroid/smart_x254.png" group-title="Dance TV",Melodic Tech
+https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
