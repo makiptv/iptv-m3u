@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION: 3
-#EXT-X-BYTERANGE: 200000@1000
-#EXT-X-TARGETDURATION: 76589
-#EXTINF: 3459.0,
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=205451&extension=ts&play_token=iSzOzkZEH6&sn2=
