@@ -3,4 +3,4 @@
 #EXT-X-BYTERANGE: 200000@1000
 #EXT-X-TARGETDURATION: 76589
 #EXTINF: 3459.0,
-https://s1.bbvipks.com/kanali1.php
+nm3u8 --key 5d048bc9dd554a8b902939a6537fb103:b72c123529d8f826213a8fc82462371b --key dc781be66eeb42bf9ccb355862311d9a:b979587123accbfb307d03b2de57b642 --live-real-time-merge
